@@ -2,7 +2,7 @@
 
 # About
 - This is a book which is about the personal guide of CSS and SCSS style, to constraint my coding style. And the guides has combined with [**Airbnb**](https://github.com/airbnb/css) and so on.
-- Continually, I'll write the same other books about **HTML**, **CSS** ,etc.
+- With the same purpose, here you can see [**JavaScript Personal Guide**](https://aleen42.gitbooks.io/javascript/content/)
 
 # Categories
 
