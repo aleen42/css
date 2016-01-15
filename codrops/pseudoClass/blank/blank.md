@@ -1,6 +1,6 @@
 ## :blank [**Back**](./../pseudoClass.md)
 
-- `:blank` is a CSS pseudo-class selector used to select pages of a printed document, such as a book, that are empty as a result of a forced `page break`.
+- `:blank` is a CSS pseudo-class selector used to select pages of a printed document, such as a book, that are empty as a result of a forced **page break**.
 
 #### Case: add `:active` for anchor links and other elements
 
