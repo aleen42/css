@@ -19,5 +19,6 @@ artical[dir="rtl"] {
 ```
 
 - The usage of `:dir()` is not equivalent to the usage of the `[dir = ""]` selector.
+- The `[dir = ""]` attribute selector only performs a comparison against a given attribute on the element. This means that it will match an element only if it has the dir attribute set.Moreover, if the dir attribute has a value `auto`, it will match neither `[dir = "ltr"]` nor `[dir = "rtl"]`.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
