@@ -56,6 +56,10 @@ p::first-line {
 
 - Also note that the first line of the paragraph p in the following example doesn’t contain any letters (assuming the default style for `<br>`).
 
+```html
+<p><br>First...</p>
+```
+
 - There is an [old bug](https://code.google.com/p/chromium/issues/detail?id=129669) in Chrome that prevents [`text-transform`]() from being applied to the `::first-line` element.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
