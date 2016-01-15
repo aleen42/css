@@ -12,6 +12,7 @@
 #### Pseudo Classes
 
 - [**:active**](./active/active.md)
+- [**:blank**](./blank/blank.md)
 
 #### Note
 
