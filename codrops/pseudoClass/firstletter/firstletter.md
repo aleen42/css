@@ -48,6 +48,6 @@ categories|items
 </div>
 ```
 
-
+- If both `::first-line` and `::first-letter` are used, the styles specified by `::first-letter` override those applied by `::first-line`.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
