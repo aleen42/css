@@ -35,5 +35,10 @@ button[type="submit"]:default {
 
 #### Case 2: default checkboxes and radio buttons
 
+```html
+<input type="radio" id="box-1"><label for="box-1">default radio buttons</label>
+<input type="checkbox" id="box-2"><label for="box-2">default checkboxes</label>
+```
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
