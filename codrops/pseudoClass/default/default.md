@@ -15,6 +15,12 @@
 input[type="submit"] {
     color: #fff;
     border-radius: 4px;
+    background-color: #f0f0f0;
+}
+
+input[type="submit"]:default {
+    color: #fff;
+    border-radius: 4px;
     background-color: #a10000;
 }
 ```
