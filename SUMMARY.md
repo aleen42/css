@@ -15,3 +15,4 @@
             * [:blank](./codrops/pseudoClass/blank/blank.md)
             * [:check](./codrops/pseudoClass/check/check.md)
             * [:default](./codrops/pseudoClass/default/default.md)
+            * [:dir()](./codrops/pseudoClass/dir/dir.md)
