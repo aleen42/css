@@ -19,6 +19,6 @@ blockquote::before {
 }
 ```
 
-<img src="./inspecting-after.png">
+<img src="./inspecting-before.png">
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
