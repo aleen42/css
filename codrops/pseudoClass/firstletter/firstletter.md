@@ -37,6 +37,7 @@ categories|items
 - The first letter of a `table-cell` or `inline-block` cannot be the first letter of an ancestor element. For example, in the following markup:
 
 ```html
+<!-- the first letter of the div is not the letter "H". In fact, the div does not have a first letter. -->
 <div>
     <p style="display: inline-block">
         Hello
