@@ -7,6 +7,7 @@
 - [**::first-letter**](./firstletter/firstletter.md)
 - [**::first-line**](./firstline/firstline.md)
 - [**::placeholder**](./placeholder/placeholder.md)
+- [**::selection**](./selection/selection.md)
 
 #### Pseudo Classes
 
