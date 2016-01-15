@@ -7,9 +7,9 @@
 #### Case : select the first letter of a block quote
 
 ```html
-<blockquote>
-    Your present circumstances don't determine where you can go; they merely determine where you start.—Nido Qubein
-</blockquote>
+<p>
+    "Drawing from our own ignorance, and from the united ignorance of others (most freely and generously bestowed), we mapped out the details of the campaign with glibness and ease. At Vardö we were to purchase furs to wear and horses to ride."
+</p>
 ```
 
 ```css
