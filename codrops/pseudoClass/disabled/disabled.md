@@ -21,7 +21,13 @@
     color: grey;
     border: 1px solid grey;
 }
+
+input[type="submit"]:disabled:hover {
+    cursor: not-allowed;
+}
 ```
+
+
 
 #### Note
 
