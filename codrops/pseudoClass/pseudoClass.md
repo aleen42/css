@@ -16,6 +16,7 @@
 - [**:check**](./check/check.md)
 - [**:default**](./default/default.md)
 - [**:dir()**](./dir/dir.md)
+- [**:disabled**](./disabled/disabled.md)
 
 #### Note
 
