@@ -18,7 +18,7 @@ artical[dir="rtl"] {
 }
 
 artical:dir(rtl) {
-    
+    /** styles applied to artical elements that have a rtl directionality event if it's inherited */
 }
 ```
 
