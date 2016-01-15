@@ -2,7 +2,7 @@
 
 - `::placeholder` is a CSS pseudo-element that represents placeholder text in an `input` field—text that represents the input and provides a hint to the user on how to fill out the form.
 
-#### Case: add YYYY/MM/DD to clarify
+#### Case: add search... to a search bar
 
 ```html
 <input type="date" placeholder="DD/MM/YYYY">
@@ -30,6 +30,8 @@ input::-webkit-input-placeholder {
     color: palevioletred;
 }
 ```
+
+
 
 
 
