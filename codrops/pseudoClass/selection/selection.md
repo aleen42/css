@@ -8,6 +8,11 @@
     color: white;
 }
 
+::-moz-selection {
+    background-color: #222;
+    color: white;
+}
+
 blockquote::selection {
     background-color: #aaa;
     color: white;
