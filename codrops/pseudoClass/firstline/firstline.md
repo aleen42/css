@@ -41,6 +41,6 @@ p::first-line {
 
 #### Note
 
-- There is an old bug in Chrome that prevents [`text-transform`]() from being applied to the `::first-line` element.
+- There is an [old bug](https://code.google.com/p/chromium/issues/detail?id=129669) in Chrome that prevents [`text-transform`]() from being applied to the `::first-line` element.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
