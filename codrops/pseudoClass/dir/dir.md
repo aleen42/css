@@ -28,6 +28,8 @@ artical:dir(rtl) {
 - The usage of `:dir()` is not equivalent to the usage of the `[dir = ""]` selector.
 - The `[dir = ""]` attribute selector only performs a comparison against a given attribute on the element. This means that it will match an element only if it has the dir attribute set.Moreover, if the dir attribute has a value `auto`, it will match **neither** `[dir = "ltr"]` **nor** `[dir = "rtl"]`.
 - The `:dir()` pseudo-class selector, on the other hand, will match an element even if its directionality is inherited from its closest ancestor with a valid dir attribute. Also, an element that matches that has `dir="auto"` will match either `:dir(ltr)` or `:dir(rtl)` depending on the resolved directionality of the elements as determined by its contents.
-- It's currently only supported by Firefox browser.
+- It's currently only supported by Firefox browser, see the examples with Firefox to clarify the differences between `[dir=""]` and `:dir()`.
+
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
