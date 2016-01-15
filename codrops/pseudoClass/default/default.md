@@ -21,6 +21,16 @@ input[type="submit"] {
 input[type="submit"]:default {
     background-color: #a10000;
 }
+
+button[type="submit"] {
+    color: #fff;
+    border-radius: 4px;
+    background-color: #f0f0f0;
+}
+
+button[type="submit"]:default {
+    background-color: #a10000;
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
