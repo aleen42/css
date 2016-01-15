@@ -2,7 +2,6 @@
 
 - `:default` is a pseudo-class selector used to select and style one or more UI elements that are the default among a set of similar elements.
 - This selector typically applies to context menu items, buttons, and select lists/menus.
-- Elements selected by `:default` also include checked checkboxes and radio buttons that have the **checked** attribute set, and options in a select menu that have the **selected** attribute set. 
 
 #### Case 1: default submit buttons
 
@@ -36,6 +35,8 @@ button[type="submit"]:default {
 ```
 
 #### Case 2: default checkboxes and radio buttons
+
+- Elements selected by `:default` also include checked checkboxes and radio buttons that have the **checked** attribute set, and options in a select menu that have the **selected** attribute set.
 
 ```html
 <input type="radio" id="box-1"><label for="box-1">default radio buttons</label>
