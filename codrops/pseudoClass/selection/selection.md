@@ -23,7 +23,7 @@ blockquote::selection {
 
 categories|items
 ----------|-----
-**Color Properties**|`background-color`, and `text-shadow` properties.
+**Color Properties**|`color`, `background-color`, and `text-shadow` properties.
 
 - The `::selection` pseudo-element was drafted for CSS Selectors Level 3 but was removed before it reached the Candidate Recommendation status, and it is currently not part of any CSS module on the standards track. However, it is still implemented in most browsers, and is likely to remain so.
 - Using `text-shadow` in ::selection is only supported in Chrome, Safari, Opera, nd Firefox.
