@@ -1,7 +1,7 @@
 ## ::first-letter [**Back**](./../pseudoClass.md)
 
 - `::first-letter` is a pseudo-element which selects the first letter in the first line of a block-level element (such as a paragraph `<p>`), if that letter is not preceded by any other content (such as **images** or **inline tables**) on its line.
-- The content inserted using `::before` is inserted before other content inside the element and is displayed inline by default. The value of the content is specified using the [`content`]() property.
+- The `::first-letter` pseudo-element does not select the first letter of an inline-level element; that is, an element that has `display: inline`. It only works on elements that have a display value of `block`, `inline-block`, `table-cell`, `table-caption`, or `list-item`.
 
 #### Case : add a quote before a block quote
 
