@@ -12,4 +12,6 @@
 
 #### Note
 
+- Only the **left** and **right** values of the `page-break-before` and `page-break-after` properties can generate pages that match `:blank`.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
