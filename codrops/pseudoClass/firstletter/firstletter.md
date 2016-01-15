@@ -33,6 +33,8 @@ categories|items
 **Border Properties**|`border`, `border-width`, `border-style`, `border-color`, and the corresponding longhand properties for each of these properties.
 **Background Properties**|`background`, `background-color`, `background-image`, `background-position`, `background-repeat`, `background-size`, and `background-attachment`.
 
+- If an element is a list item (`display: list-item`), the `:first-letter` applies to the first letter in the principal box after the `marker`. User agents may ignore `:first-letter` on list items with `list-style-position: inside`.
+
 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
