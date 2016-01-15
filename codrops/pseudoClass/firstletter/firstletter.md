@@ -27,7 +27,8 @@ p::first-letter {
 
 categories|items
 ----------|-----
-**Font Properties**|`font`, `font-style`, `font-variant`, `font-weight`, `font-size`, `line-height`, and `font-family`. `text-decoration`, `text-transform`, `letter-spacing`, `word-spacing` (when appropriate)
+**Font Properties**|`font`, `font-style`, `font-variant`, `font-weight`, `font-size`, `line-height`, and `font-family`. `text-decoration`, `text-transform`, `letter-spacing`, `word-spacing` (when appropriate), `float`, `vertical-align` (only if `float` is none), and `color`.
+
 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
