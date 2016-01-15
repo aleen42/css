@@ -22,7 +22,7 @@ Let's <a href="#" class="external">Move The Web Forward</a> together!
 ```css
 a[href]::after {
     color: grey;
-    content: " (" attr(href) "("
+    content: " (" attr(href) "(";
 }
 ```
 
