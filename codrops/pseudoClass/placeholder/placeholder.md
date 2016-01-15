@@ -10,24 +10,24 @@
 
 ```css
 input::-webkit-input-placeholder {
-  color: #999;
+    color: #999;
 }
 
 ::-moz-placeholder {
-  color: #999;
+    color: #999;
 }
 
 :-ms-input-placeholder {
     /** notice that ie has only a single colon) */
-  color: #999;
+    color: #999;
 }
 
 ::-webkit-input-placeholder {
-  color: #999;
+    color: #999;
 }
 
 ::placeholder {
-  color: palevioletred;
+    color: palevioletred;
 }
 ```
 
