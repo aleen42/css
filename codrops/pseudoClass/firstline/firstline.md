@@ -37,6 +37,5 @@ p::first-line {
 }
 ```
 
-<iframe src="http://tympanus.net/codrops-playground/SaraSoueidan/HX6N5Kfb/embed/result,html,css/" class="codrops-playground-embed" width="100%" height="300px" frameborder="0" scrolling="no" allowfullscreen="true" style="position: relative;"></iframe>
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
