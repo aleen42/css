@@ -14,3 +14,4 @@
             * [:active](./codrops/pseudoClass/active/active.md)
             * [:blank](./codrops/pseudoClass/blank/blank.md)
             * [:check](./codrops/pseudoClass/check/check.md)
+            * [:default](./codrops/pseudoClass/default/default.md)
