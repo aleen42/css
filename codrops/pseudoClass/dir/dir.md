@@ -12,6 +12,12 @@
 
 #### Note
 
+```css
+artical[dir="rtl"] {
+    /** applied to article elements that have a rtl directionality set using the dir attribute */
+}
+```
+
 - The usage of `:dir()` is not equivalent to the usage of the `[dir = ""]` selector.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
