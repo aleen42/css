@@ -4,6 +4,30 @@
 
 #### Case: add YYYY/MM/DD to clarify
 
+```html
+<input type="date" placeholder="DD/MM/YYYY">
+```
 
+```css
+input::-webkit-input-placeholder {
+  color: #999;
+}
+
+::-moz-placeholder {
+  color: #999;
+}
+
+:-ms-input-placeholder {
+  color: #999;
+}
+
+::-webkit-input-placeholder {
+  color: #999;
+}
+
+::placeholder {
+  color: palevioletred;
+}
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
