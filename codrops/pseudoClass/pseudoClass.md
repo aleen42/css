@@ -1,12 +1,12 @@
 ## Pseudo [**Back**](./../codrops.md)
 
-#### Pseudo Classes
+#### Pseudo Elements
 
 - [**::after**](./after/after.md)
 - [**::before**](./before/before.md)
 - [**::first-letter**](./firstletter/firstletter.md)
 
-#### Pseudo Elements
+#### Pseudo Classes
 
 #### Note
 
