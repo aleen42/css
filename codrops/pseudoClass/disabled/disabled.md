@@ -9,6 +9,20 @@
 <input type="submit" disabled="disabled"> <!-- disabled attribute added with a "disabled" value -->
 ```
 
+#### Case: chain selector with hover
+
+```html
+
+```
+
+```css
+:disabled {
+    background-color: #aaa;
+    color: grey;
+    border: 1px solid grey;
+}
+```
+
 #### Note
 
 - The `disabled` attribute is an **HTML5** attribute that can be set to the elements: `<button>`, `<input>`, `<textarea>`, `<optgroup>`, `<option>`, and `<fieldset>`.
