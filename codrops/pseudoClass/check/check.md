@@ -6,8 +6,8 @@
 #### Case: check the checkbox and radio
 
 ```html
-<input type="radio" checked>
-<input type="checkbox" checked>
+<input type="radio" id="box-1" checked><label for="box-1">radio</label>
+<input type="checkbox" id="box-2" checked><label for="box-2">checkbox</label>
 ```
 
 <p data-height="266" data-theme-id="21735" data-slug-hash="OMxNrV" data-default-tab="result" data-user="aleen42" class='codepen'>See the Pen <a href='http://codepen.io/aleen42/pen/OMxNrV/'>OMxNrV</a> by aleen42 (<a href='http://codepen.io/aleen42'>@aleen42</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
