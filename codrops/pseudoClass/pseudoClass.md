@@ -24,6 +24,10 @@
 - Pseudo-elements are mostly used to insert and style cosmetic content, and should not be relied on to insert content that is relevant to the meaning and completeness of the content on the page.
 - Also, since the content inserted using pseudo-elements is not inserted into the DOM, this means that you cannot attach any event handlers to it using JavaScript.
 
+###### About IE compatibility
+
+- Internet Explorer does not support using z-index on pseudo-elements.
+
 ```css
 /**
  * bad
