@@ -6,6 +6,8 @@
 
 #### Case 1: default submit buttons
 
+- Buton inputs and buttons of type="submit" are considered one group, and therefore the first of them is the default.
+
 ```html
 <input type="submit" value="Submit (<input>)">
 <button type="submit">Submit (<Button>)</button>
