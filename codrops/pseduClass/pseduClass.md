@@ -1,4 +1,4 @@
-## Psedu-class [**Back**](./../codrops.md)
+## Pseudo-class [**Back**](./../codrops.md)
 
 - [**::after**](./after/after.md)
 
