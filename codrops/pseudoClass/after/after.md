@@ -1,7 +1,7 @@
 ## ::after [**Back**](./../pseudoClass.md)
 
 - `::after` is a generated content element that represents a styleable abstract last child of the respective element.
-- The content inserted using `::after` is inserted after other content inside the element and is displayed inline by default. The value of the content is specified using the [`content`]() property.
+- The content inserted using `::after` is inserted after other content inside the element and is displayed inline by default. The value of the content is specified using the `content` property.
 
 #### Case 1: add a small icon to all links
 
