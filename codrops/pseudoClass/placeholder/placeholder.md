@@ -5,7 +5,7 @@
 #### Case: add search... to a search bar
 
 ```html
-<input type="date" placeholder="DD/MM/YYYY">
+<input type="text" placeholder="search...">
 ```
 
 ```css
