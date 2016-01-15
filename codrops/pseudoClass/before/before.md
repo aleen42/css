@@ -4,13 +4,18 @@
 - Case: **add a quote before a block quote**
 
 ```html
-Let's <a href="#" class="external">Move The Web Forward</a> together!
+<blockquote>
+    Your present circumstances don't determine where you can go; they merely determine where you start.—Nido Qubein
+</blockquote>
 ```
 
 ```css
-.external::after {
-    content: url(external-link.png);
-    padding-left: 5px;  /** create some space between the icon and the link */
+blockquote::before {
+    content: "\201C"; /** style of the quote */
+    color: deepPink;
+    font-size: 3em;
+    position: relative;
+    top: 20px;
 }
 ```
 
