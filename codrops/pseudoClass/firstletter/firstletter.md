@@ -25,6 +25,9 @@ p::first-letter {
 
 - Only a subset of properties can be used to `::first-letter`:
 
+categories|items
+----------|-----
+**Font Properties**|`font`, `font-style`, `font-variant`, `font-weight`, `font-size`, `line-height`, and `font-family`. `text-decoration`, `text-transform`, `letter-spacing`, `word-spacing` (when appropriate)
 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
