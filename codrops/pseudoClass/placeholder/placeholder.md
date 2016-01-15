@@ -18,6 +18,7 @@ input::-webkit-input-placeholder {
 }
 
 :-ms-input-placeholder {
+    /** notice that ie has only a single colon) */
   color: #999;
 }
 
@@ -29,5 +30,7 @@ input::-webkit-input-placeholder {
   color: palevioletred;
 }
 ```
+
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
