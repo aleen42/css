@@ -41,6 +41,7 @@ p::first-line {
 
 #### Note
 
+- The first line of a `table-cell` or `inline-block` cannot be the first formatted line of an ancestor element. So, in the following example, the first formatted line of the div is not the line "Hello".
 - There is an [old bug](https://code.google.com/p/chromium/issues/detail?id=129669) in Chrome that prevents [`text-transform`]() from being applied to the `::first-line` element.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
