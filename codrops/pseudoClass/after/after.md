@@ -4,7 +4,7 @@
 - Case: **add a small icon to all links**
 
 ```html
-Let's <a href="http://movethewebforward.org/" class="external">Move The Web Forward</a> together!
+Let's <a href="#" class="external">Move The Web Forward</a> together!
 ```
 
 ```css
