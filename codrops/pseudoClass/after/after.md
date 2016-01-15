@@ -9,7 +9,7 @@ Let's <a href="#" class="external">Move The Web Forward</a> together!
 
 ```css
 .external::after {
-    content: url(icon.png);
+    content: url(external-link.png);
     padding-left: 5px;  /** create some space between the icon and the link */
 }
 ```
