@@ -29,6 +29,7 @@ categories|items
 ----------|-----
 **Font Properties**|`font`, `font-style`, `font-variant`, `font-weight`, `font-size`, `line-height`, and `font-family`. `text-decoration`, `text-transform`, `letter-spacing`, `word-spacing` (when appropriate), `float`, `vertical-align` (only if `float` is none), and `color`.
 **Margin Properties**|`margin`, `margin-top`, `margin-right`, `margin-bottom`, and `margin-left`.
+**Padding Properties**|`padding`, `padding-top`, `padding-right`, `padding-bottom`, and `padding-left`
 
 
 
