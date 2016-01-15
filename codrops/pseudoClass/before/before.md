@@ -1,7 +1,8 @@
 ## ::before [**Back**](./../pseudoClass.md)
 
 - The content inserted using `::before` is inserted before other content inside the element and is displayed inline by default. The value of the content is specified using the [`content`]() property.
-- Case: **add a quote before a block quote**
+
+#### Case 1: **add a quote before a block quote**
 
 ```html
 <blockquote>
