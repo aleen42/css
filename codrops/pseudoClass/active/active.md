@@ -1,6 +1,6 @@
 ## :active [**Back**](./../pseudoClass.md)
 
-- `:active` is a CSS pseudo-class. It specifies and selects an element based on a state—the active state—and is used to apply styles to an element when it matches that state.
+- `:active` is a CSS pseudo-class. It specifies and selects an element based on a state, the active state, and is used to apply styles to an element when it matches that state.
 
 ```css
 ::selection {
