@@ -13,12 +13,8 @@
 ```
 
 ```css
-blockquote::before {
-    content: "\201C"; /** style of the quote */
-    color: deepPink;
+p::first-letter {
     font-size: 3em;
-    position: relative;
-    top: 20px;
 }
 ```
 
