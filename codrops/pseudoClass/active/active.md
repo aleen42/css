@@ -1,6 +1,6 @@
 ## :active [**Back**](./../pseudoClass.md)
 
-- `::selection` CSS pseudo-element represents a portion(一部分) of the document that is highlighted by the user. For example, a portion of a page that is selected by the user using the mouse or any other pointing device.
+- `:active` is a CSS pseudo-class. It specifies and selects an element based on a state—the active state—and is used to apply styles to an element when it matches that state.
 
 ```css
 ::selection {
