@@ -40,5 +40,15 @@ button[type="submit"]:default {
 <input type="checkbox" id="box-2"><label for="box-2">default checkboxes</label>
 ```
 
+```css
+input[type="checkbox"]:default + label {
+    text-decoration: underline;
+}
+
+input[type="checkbox"]:default + label {
+    text-decoration: underline;
+}
+```
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
