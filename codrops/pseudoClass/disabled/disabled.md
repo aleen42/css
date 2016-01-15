@@ -9,4 +9,8 @@
 <input type="submit" disabled="disabled"> <!-- disabled attribute added with a "disabled" value -->
 ```
 
+#### Note
+
+- The `disabled` attribute is an **HTML5** attribute that can be set to the elements: `<button>`, `<input>`, `<textarea>`, `<optgroup>`, `<option>`, and `<fieldset>`.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
