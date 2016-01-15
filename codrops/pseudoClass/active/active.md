@@ -42,6 +42,6 @@ a:active {
 }
 ```
 
-- This order is preferred because otherwise some state styles could override other state styles, thus making them not work as expected.
+- This order is preferred because otherwise some state styles could override other state styles, thus making them not work as expected. (eg. `:visited` can override `:hover` and `active`)
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
