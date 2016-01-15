@@ -7,3 +7,4 @@
         * [::before](./codrops/pseudoClass/before/before.md)
         * [::first-letter](./codrops/pseudoClass/firstletter/firstletter.md)
         * [::first-line](./codrops/pseudoClass/firstline/firstline.md)
+        * [::placeholder](./codrops/pseudoClass/placeholder/placeholder.md)
