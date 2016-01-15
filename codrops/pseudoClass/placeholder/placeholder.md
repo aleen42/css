@@ -27,7 +27,7 @@ input::-webkit-input-placeholder {
 }
 
 ::placeholder {
-    color: palevioletred;
+    color: #999;
 }
 ```
 
