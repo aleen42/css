@@ -15,5 +15,6 @@
 - Only the **left** and **right** values of the `page-break-before` and `page-break-after` properties can generate pages that match `:blank`.
 - Styles specified in a `:blank` `@page` rule override any styles provided in an `@page` rule that has no pseudo-class specified.
 - Also, styles specified in a `:blank` `@page` rule override any styles provided in `:left` and `:right` `@page` rules. (`:left` and `:right` are selectors used to select the left pages and the right pages of a double-sided printed document, such as a book.)
+- The `page-break-before` and `page-break-after` properties will be replaced with `break-before` and `break-after` properties, respectively, in a future CSS level.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
