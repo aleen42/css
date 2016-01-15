@@ -1,5 +1,6 @@
 ## ::before [**Back**](./../pseudoClass.md)
 
+- `::before` is a generated content element that represents a styleable abstract first child of the respective element.
 - The content inserted using `::before` is inserted before other content inside the element and is displayed inline by default. The value of the content is specified using the [`content`]() property.
 
 #### Case : add a quote before a block quote
