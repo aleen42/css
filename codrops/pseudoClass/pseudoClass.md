@@ -15,6 +15,7 @@
 - [**:blank**](./blank/blank.md)
 - [**:check**](./check/check.md)
 - [**:default**](./default/default.md)
+- [**:dir()**](./dir/dir.md)
 
 #### Note
 
