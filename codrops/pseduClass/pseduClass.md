@@ -1,4 +1,4 @@
-## Psedu-class [**Back**](./../types.md)
+## Psedu-class [**Back**](./../codrops.md)
 
 - [**::after**](./after/after.md)
 
