@@ -13,6 +13,7 @@
 
 - [**:active**](./active/active.md)
 - [**:blank**](./blank/blank.md)
+- [**:check**](./check/check.md)
 
 #### Note
 
