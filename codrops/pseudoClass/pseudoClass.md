@@ -4,6 +4,7 @@
 
 - [**::after**](./after/after.md)
 - [**::before**](./before/before.md)
+- [**::first-letter**](./firstletter/firstletter.md)
 
 #### Pseudo Elements
 
