@@ -27,6 +27,8 @@ artical:dir(rtl) {
 - The `:dir()` pseudo-class selector, on the other hand, will match an element even if its directionality is inherited from its closest ancestor with a valid dir attribute. Also, an element that matches that has `dir="auto"` will match either `:dir(ltr)` or `:dir(rtl)` depending on the resolved directionality of the elements as determined by its contents.
 - It's currently only supported by Firefox browser, see the examples with Firefox to clarify the differences between `[dir=""]` and `:dir()`.
 
+###### [dir=""]
+
 <p data-height="266" data-theme-id="21735" data-slug-hash="yezVye" data-default-tab="result" data-user="aleen42" class='codepen'>See the Pen <a href='http://codepen.io/aleen42/pen/yezVye/'>yezVye</a> by aleen42 (<a href='http://codepen.io/aleen42'>@aleen42</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
