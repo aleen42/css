@@ -19,4 +19,11 @@ Let's <a href="#" class="external">Move The Web Forward</a> together!
 
 #### Case 2: using attribute selector
 
+```css
+a[href]::after {
+    color: grey;
+    content: " (" 
+}
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
