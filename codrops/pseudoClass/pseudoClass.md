@@ -43,5 +43,6 @@
 ###### About IE compatibility
 
 - Internet Explorer does not support using z-index on pseudo-elements.
+- The two-colon syntax introduced in CSS Level 3 is not supported in **Internet Explorer 8** and earlier, only the single-colon syntax is supported in those versions down to version 5.5.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../pic/tail.gif"></a>
