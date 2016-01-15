@@ -11,4 +11,12 @@
 <button type="submit">Submit (<Button>)</button>
 ```
 
+```css
+input[type="submit"] {
+    color: #fff;
+    border-radius: 4px;
+    background-color: #a10000;
+}
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
