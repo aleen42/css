@@ -1,0 +1,9 @@
+## :default [**Back**](./../pseudoClass.md)
+
+- `:default` is a pseudo-class selector used to select and style one or more UI elements that are the default among a set of similar elements.
+- This selector typically applies to context menu items, buttons, and select lists/menus.
+- Elements selected by `:default` also include checked checkboxes and radio buttons that have the checked attribute set,
+
+#### Case 1: default submit buttons
+
+<a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
