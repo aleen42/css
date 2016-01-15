@@ -5,4 +5,4 @@
     * [Pseudo](./codrops/pseudoClass/pseudoClass.md)
         * [::after](./codrops/pseudoClass/after/after.md)
         * [::before](./codrops/pseudoClass/before/before.md)
-        * [::first-letter](./firstletter/firstletter.md)
+        * [::first-letter](./codrops/pseudoClass/firstletter/firstletter.md)
