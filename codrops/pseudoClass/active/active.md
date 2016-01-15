@@ -33,6 +33,10 @@ a:visited {
     /** style visited links */
 }
 
+a:focus {
+    /** style focus state links */
+}
+
 a:hover {
     /** style hover links */
 }
