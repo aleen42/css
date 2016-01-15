@@ -6,4 +6,9 @@
 
 #### Case 1: default submit buttons
 
+```html
+<input type="submit" value="Submit (<input>)">
+
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
