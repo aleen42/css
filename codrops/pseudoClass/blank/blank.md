@@ -28,5 +28,12 @@ categories|items
 
 - In CSS3, at-rules that select and target page margins were introduced. They have **no browser support** at this time. But the following is an example of how you might style an empty page using a page margin at-rule; the example inserts content into the center of the top margin of an empty page:
 
+```css
+@page :blank {
+    @top-center: {
+        content: "The page is empty";
+    }
+}
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
