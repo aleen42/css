@@ -18,6 +18,6 @@ p::first-letter {
 }
 ```
 
-<img src="./first-letter-with-punctuatio.png">
+<img src="./first-letter-with-punctuation.png">
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
