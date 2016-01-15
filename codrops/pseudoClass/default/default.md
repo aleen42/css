@@ -19,8 +19,6 @@ input[type="submit"] {
 }
 
 input[type="submit"]:default {
-    color: #fff;
-    border-radius: 4px;
     background-color: #a10000;
 }
 ```
