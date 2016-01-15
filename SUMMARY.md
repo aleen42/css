@@ -12,3 +12,4 @@
             * [::selection](./codrops/pseudoClass/selection/selection.md)
         * Pseudo Classes
             * [:active](./codrops/pseudoClass/active/active.md)
+            * [:blank](./codrops/pseudoClass/blank/blank.md)
