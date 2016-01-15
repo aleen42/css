@@ -18,7 +18,7 @@
 - All browsers that support the two-colon notation also support the one-colon notation. **Internet Explorer 8**, however, does not support the two-colon notation. So, unless you need to support Internet Explorer 8, you can use the two-colon notation without having to worry about browser support.
 - It's recommended that using `::` to distinguish them.
 
-###### About accessabilit
+###### About accessability
 
 - Content added using pseudo-elements is not inserted into the DOM—it is only visually displayed. Hence, screen readers won’t be able to access and read the content generated using pseudo-elements. So, it is recommended that you don’t use pseudo-elements to insert vital content into a page (such as footer notes that are relevant to the article, for example).
 - Pseudo-elements are mostly used to insert and style cosmetic content, and should not be relied on to insert content that is relevant to the meaning and completeness of the content on the page.
