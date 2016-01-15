@@ -12,7 +12,7 @@
 #### Case: chain selector with hover
 
 ```html
-
+<input type="submit" value="Submit">
 ```
 
 ```css
