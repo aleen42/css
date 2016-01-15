@@ -5,6 +5,7 @@
 - [**::after**](./after/after.md)
 - [**::before**](./before/before.md)
 - [**::first-letter**](./firstletter/firstletter.md)
+- [**::first-line**](./firstline/firstletter.md)
 
 #### Pseudo Classes
 
