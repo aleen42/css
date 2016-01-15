@@ -13,3 +13,4 @@
         * Pseudo Classes
             * [:active](./codrops/pseudoClass/active/active.md)
             * [:blank](./codrops/pseudoClass/blank/blank.md)
+            * [:check](./codrops/pseudoClass/check/check.md)
