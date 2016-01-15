@@ -17,4 +17,6 @@ Let's <a href="#" class="external">Move The Web Forward</a> together!
 
 <img src="./inspecting-after.png">
 
+#### Case 2: using attribute selector
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
