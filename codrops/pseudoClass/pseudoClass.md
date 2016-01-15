@@ -18,6 +18,10 @@
 - All browsers that support the two-colon notation also support the one-colon notation. **Internet Explorer 8**, however, does not support the two-colon notation. So, unless you need to support Internet Explorer 8, you can use the two-colon notation without having to worry about browser support.
 - It's recommended that using `::` to distinguish them.
 
+###### About pseudo elements
+
+- Pseudo-elements are mostly used to insert and style cosmetic content, and should not be relied on to insert content that is relevant to the meaning and completeness of the content on the page.
+
 ```css
 /**
  * bad
