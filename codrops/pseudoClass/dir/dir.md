@@ -5,7 +5,9 @@
 - In an HTML5 document, the directionality of an element can be specified using the dir attribute. The directionality can be set to either **ltr**(left-to-right) or **rtl**(right-to-left). For example:
 
 ```html
-
+<article dir="rtl">
+    <!-- ... -->
+</article>
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
