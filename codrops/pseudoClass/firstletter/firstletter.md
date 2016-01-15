@@ -23,6 +23,8 @@ p::first-letter {
 
 #### Note
 
-- Only a subset of properties can be used to `::first-letter`
+- Only a subset of properties can be used to `::first-letter`:
+
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
