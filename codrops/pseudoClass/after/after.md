@@ -14,4 +14,6 @@ Let's <a href="http://movethewebforward.org/" class="external">Move The Web Forw
 }
 ```
 
+<img src="./inspecting-after.png">
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
