@@ -31,6 +31,7 @@ categories|items
 **Margin Properties**|`margin`, `margin-top`, `margin-right`, `margin-bottom`, and `margin-left`.
 **Padding Properties**|`padding`, `padding-top`, `padding-right`, `padding-bottom`, and `padding-left`
 **Border Properties**|`border`, `border-width`, `border-style`, `border-color`, and the corresponding longhand properties for each of these properties.
+**Background Properties**|`background`, `background-color`, `background-image`, `background-position`, `background-repeat`, `background-size`, and `background-attachment`.
 
 
 
