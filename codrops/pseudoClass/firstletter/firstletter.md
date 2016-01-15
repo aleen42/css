@@ -34,7 +34,7 @@ categories|items
 **Background Properties**|`background`, `background-color`, `background-image`, `background-position`, `background-repeat`, `background-size`, and `background-attachment`.
 
 - If an element is a list item (`display: list-item`), the `:first-letter` applies to the first letter in the principal box after the `marker`. User agents may ignore `:first-letter` on list items with `list-style-position: inside`.
-- The first letter of a `table-cell` or `inline-block` cannot be the first letter of an ancestor element. For example, in the following markup (*the first letter of the div is not the letter “H”. In fact, the div does not have a first letter*):
+- The first letter of a `table-cell` or `inline-block` cannot be the first letter of an ancestor element. For example, in the following markup:
 
 ```html
 <div>
