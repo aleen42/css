@@ -5,6 +5,9 @@
 
 #### Case: enable button with hover
 
+<p data-height="266" data-theme-id="21735" data-slug-hash="xZXYaj" data-default-tab="result" data-user="aleen42" class='codepen'>See the Pen <a href='http://codepen.io/aleen42/pen/xZXYaj/'>xZXYaj</a> by aleen42 (<a href='http://codepen.io/aleen42'>@aleen42</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
 #### Note
 
 - The `enabled` attribute is an **HTML5** attribute that can be set to the elements: `<button>`, `<input>`, `<textarea>`, `<optgroup>`, `<option>`, and `<fieldset>`.
