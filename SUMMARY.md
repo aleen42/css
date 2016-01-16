@@ -18,3 +18,4 @@
             * [:dir()](./codrops/pseudoClass/dir/dir.md)
             * [:disabled](./codrops/pseudoClass/disabled/disabled.md)
             * [:empty](./codrops/pseudoClass/empty/empty.md)
+            * [:enable](./codrops/pseudoClass/enable/enable.md)
