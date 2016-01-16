@@ -26,4 +26,6 @@ div:empty {
 <p data-height="266" data-theme-id="21735" data-slug-hash="GoMQOL" data-default-tab="result" data-user="aleen42" class='codepen'>See the Pen <a href='http://codepen.io/aleen42/pen/GoMQOL/'>GoMQOL</a> by aleen42 (<a href='http://codepen.io/aleen42'>@aleen42</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
+- Empty spaces, empty children and break-line charachter inside an element count as character information inside that element, and so the element is not considered empty anymore if it contains one of the three. 
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
