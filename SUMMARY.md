@@ -17,3 +17,4 @@
             * [:default](./codrops/pseudoClass/default/default.md)
             * [:dir()](./codrops/pseudoClass/dir/dir.md)
             * [:disabled](./codrops/pseudoClass/disabled/disabled.md)
+            * [:empty](./codrops/pseudoClass/empty/empty.md)
