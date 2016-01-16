@@ -46,4 +46,9 @@ div:empty {
 <p>
 ```
 
+- However, if the open tag is directly followed by another tag, then it is considered empty again.
+
+```html
+<p><p>content...</p>
+```
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
