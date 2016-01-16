@@ -21,7 +21,7 @@ categories|items
 **Page Break Properties**|`page-break-after`, `page-break-before`, and `page-break-inside`
 **Other Properties**|`orphans` and `windows`
 
-- All pages are automatically classified by user agents into either the `:left` or `:right` pseudo-class. Whether the first page of a document is `:left` or `:right` depends on the major writing direction of the root element. For example, the first page of a document with a left-to-right** major writing direction would be a `:right` page, and the first page of a document with a **right-to-left** major writing direction would be a `:left` page.
+- All pages are automatically classified by user agents into either the `:left` or `:right` pseudo-class. Whether the first page of a document is `:left` or `:right` depends on the major writing direction of the root element. For example, the first page of a document with a **left-to-right** major writing direction would be a `:right` page, and the first page of a document with a **right-to-left** major writing direction would be a `:left` page.
 - If a forced break occurs before the first generated box, it is undefined in CSS 2.1 whether `:first` applies to the blank page before the break or to the page after it.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
