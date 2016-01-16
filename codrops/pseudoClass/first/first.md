@@ -9,6 +9,20 @@
 }
 ```
 
+#### Case: distinguished first page
+
+```css
+/* All margins set to 2cm */
+@page { 
+    margin: 2cm;
+} 
+
+/* Top margin on first page 10cm */
+@page :first {
+    margin-top: 10cm;    
+}
+```
+
 #### Note
 
 - In addition to `:first`, a `@page` can be used in conjunction with two other pseudo-classes, namely `:left` and `:right`, which select the left and right pages in double-sided documents, respectively.
