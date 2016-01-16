@@ -21,4 +21,6 @@ categories|items
 **Page Break Properties**|`page-break-after`, `page-break-before`, and `page-break-inside`
 **Other Properties**|`orphans` and `windows`
 
+- If a forced break occurs before the first generated box, it is undefined in CSS 2.1 whether `:first` applies to the blank page before the break or to the page after it.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
