@@ -51,4 +51,7 @@ div:empty {
 ```html
 <p><p>content...</p>
 ```
+
+- Self-closing elements such as `<hr />`, `<br />`, and `<img />`, for example, are considered empty and will match the `:empty` selector.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
