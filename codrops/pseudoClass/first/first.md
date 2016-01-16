@@ -9,4 +9,9 @@
 }
 ```
 
+#### Note
+
+- In addition to `:first`, a `@page` can be used in conjunction with two other pseudo-classes, namely `:left` and `:right`, which select the left and right pages in double-sided documents, respectively.
+- Styles specified in a `:first` `@page` rule override any styles specified in `:left` and `:right` `@page` rules.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
