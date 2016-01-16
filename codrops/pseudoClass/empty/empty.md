@@ -40,4 +40,10 @@ div:empty {
 </div>
 ```
 
+- Because white spaces are considered content, element tags that are open but not closed are also considered not empty.
+
+```html
+<p>
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
