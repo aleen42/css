@@ -8,8 +8,12 @@
 ```
 
 ```css
+/*
+ * As long as the value is between 1 and 10,
+ * the input will match the :in-range selector and can be styled.
+ */
 input[type="number"]:in-range {
-    /* styles here */
+    /** styles here */
 }
 ```
 
