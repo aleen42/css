@@ -4,7 +4,7 @@
 - An element is hovered over when the user designates it with a pointing device, like pointing at it by placing the mouse over it, without necessarily **activating** it.
 - `:hover` is a dynamic pseudo-class that matches when an element is being hovered by the user. It is usually used to give users visual feedback that the element they're pointing at has been indeed hovered and may be activated.
 
-#### Case: hover action for links
+#### Case: hover actions for links
 
 ```html
 <a href="#">links</a>
