@@ -9,5 +9,11 @@
 <input type="text" name="searchBar" value="">
 ```
 
+```css
+input[type="text"]:focus {
+    outline: #a10000;
+}
+```
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
