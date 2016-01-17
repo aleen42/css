@@ -7,4 +7,10 @@
 <input type="number" min="1" max="10" value="8">
 ```
 
+```css
+input[type="number"]:in-range {
+    /* styles here */
+}
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
