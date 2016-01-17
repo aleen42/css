@@ -17,4 +17,6 @@ input[type="number"]:in-range {
 }
 ```
 
+- In comparison with `:in-range`, an element whose value is out of the specified range can be selected and styled using the `:out-of-range` pseudo-class selector.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
