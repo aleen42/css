@@ -7,6 +7,7 @@
 #### Note
 
 - Most **touch devices** don't support hover interactions. Using `:hover` on touch devices can cause problems like unexpected effects and interactions.
+- It is recommended that suitable fallback is provided for **touch devices** to make sure that all content is available for users on devices that don't offer `:hover` interactions.
 - The `:hover` styles may be overridden by `link`, `visited`, and `focus` when applying styles.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
