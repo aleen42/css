@@ -24,6 +24,7 @@
 - [**:first-of-type**](./firstoftype/firstoftype.md)
 - [**:focus**](./focus/focus.md)
 - [**:fullscreen**](./fullscreen/fullscreen.md)
+- [**:hover**](./hover/hover.md)
 
 #### Note
 
