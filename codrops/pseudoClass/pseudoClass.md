@@ -20,7 +20,7 @@
 - [**:empty**](./empty/empty.md)
 - [**:enabled**](./enable/enable.md)
 - [**:first**](./first/first.md)
-- [**:first-child**](./firstchild/firstfirstchild.md)
+- [**:first-child**](./firstchild/firstchild.md)
 
 #### Note
 
