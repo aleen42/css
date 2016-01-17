@@ -3,6 +3,10 @@
 - `:first-child` is a pseudo-class which selects the target element if it is the first child of some other element.
 - That is, `:first-child` will match the element only if it is the first child of its parent.
 
+#### Case: understanding `:first-child`
+
+
+
 #### Note
 
 - The paragraph won't be selected as the first element in the follow case:
