@@ -22,7 +22,7 @@
 - [**:first**](./first/first.md)
 - [**:first-child**](./firstchild/firstchild.md)
 - [**:first-of-type**](./firstoftype/firstoftype.md)
-- [**:focus**](./focus/firstoftype.md)
+- [**:focus**](./focus/focus.md)
 
 #### Note
 
