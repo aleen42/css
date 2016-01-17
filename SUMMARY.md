@@ -24,3 +24,4 @@
             * [:first-of-type](./codrops/pseudoClass/firstoftype/firstoftype.md)
             * [:focus](./codrops/pseudoClass/focus/focus.md)
             * [:fullscreen](./codrops/pseudoClass/fullscreen/fullscreen.md)
+            * [:hover](./codrops/pseudoClass/hover/hover.md)
