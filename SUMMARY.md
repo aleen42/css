@@ -23,3 +23,4 @@
             * [:first-child](./codrops/pseudoClass/firstchild/firstchild.md)
             * [:first-of-type](./codrops/pseudoClass/firstoftype/firstoftype.md)
             * [:focus](./codrops/pseudoClass/focus/focus.md)
+            * [:fullscreen](./codrops/pseudoClass/fullscreen/fullscreen.md)
