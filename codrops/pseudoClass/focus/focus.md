@@ -11,7 +11,7 @@
 
 ```css
 input[type="text"]:focus {
-    outline: #a10000;
+    outline: none;
 }
 ```
 
