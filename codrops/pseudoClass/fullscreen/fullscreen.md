@@ -8,12 +8,12 @@
 ```js
 const el = document.getElementByID('element');
 
-// use necessary prefixed versions
+/** use necessary prefixed versions */
 el.webkitRequestFullscreen();
 el.mozRequestFullScreen();
 el.msRequestFullscreen();
 
-// finally the standard version
+/** finally the standard version */
 el.requestFullscreen();
 ```
 
