@@ -5,6 +5,6 @@
 
 #### Note
 
-- Most touch devices don’t support hover interactions. Using :hover on touch devices can cause problems like unexpected effects and interactions
+- Most touch devices don't support hover interactions. Using `:hover` on touch devices can cause problems like unexpected effects and interactions
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
