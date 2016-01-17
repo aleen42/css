@@ -13,6 +13,7 @@
 input[type="text"]:focus {
     outline: none;  /** disabled the default property */
     /** add your own styles down here */
+    border: 1px solid #a10000;
 }
 ```
 
