@@ -30,12 +30,6 @@ el.requestFullscreen();
 - Compatibility of different browsers:
 
 ```css
-#element:fullscreen {
-    width: 100vw;
-    height: 100vh;
-    /** etc.. */
-}
-
 #element:-webkit-fullscreen {
     width: 100vw;
     height: 100vh;
@@ -43,6 +37,18 @@ el.requestFullscreen();
 }
 
 #element:-moz-fullscreen {
+    width: 100vw;
+    height: 100vh;
+    /** etc.. */
+}
+
+#element:-ms-fullscreen {
+    width: 100vw;
+    height: 100vh;
+    /** etc.. */
+}
+
+#element:fullscreen {
     width: 100vw;
     height: 100vh;
     /** etc.. */
