@@ -25,4 +25,28 @@ el.requestFullscreen();
 }
 ```
 
+#### Note
+
+- Compatibility of different browsers:
+
+```css
+#element:fullscreen {
+    width: 100vw;
+    height: 100vh;
+    /** etc.. */
+}
+
+#element:-webkit-fullscreen {
+    width: 100vw;
+    height: 100vh;
+    /** etc.. */
+}
+
+#element:-moz-fullscreen {
+    width: 100vw;
+    height: 100vh;
+    /** etc.. */
+}
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
