@@ -22,5 +22,4 @@
 - If you want to select and style the first paragraph inside a container, whether or not it is the first child, you can use the `:first-of-type` selector, which, as the name suggests, will select the first element of its type, whether or not it is the first child of its parent. For example, `p:first-of-type` will select the paragraph that comes after the heading in the above source code example, but will not match any other paragraph that comes after that.
 - Some compatibility issues: **Internet Explorer 7** doesn't update the styles when elements are added dynamically. In **Internet Explorer 8**, if an element is inserted dynamically by clicking on a link the first-child style isn't applied until the link loses focus.
 
-
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
