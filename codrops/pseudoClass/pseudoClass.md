@@ -21,6 +21,7 @@
 - [**:enabled**](./enable/enable.md)
 - [**:first**](./first/first.md)
 - [**:first-child**](./firstchild/firstchild.md)
+- [**:first-of-type**](./firstoftype/firstoftype.md)
 
 #### Note
 
