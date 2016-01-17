@@ -20,4 +20,4 @@
             * [:empty](./codrops/pseudoClass/empty/empty.md)
             * [:enable](./codrops/pseudoClass/enable/enable.md)
             * [:first](./codrops/pseudoClass/first/first.md)
-            * [:first-child](./codrops/pseudoClass/firstchild/firstfirstchild.md)
+            * [:first-child](./codrops/pseudoClass/firstchild/firstchild.md)
