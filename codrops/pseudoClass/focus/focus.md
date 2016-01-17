@@ -11,7 +11,7 @@
 
 ```css
 input[type="text"]:focus {
-    outline: none;
+    outline: none;  /** disabled the default property */
 }
 ```
 
