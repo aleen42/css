@@ -4,7 +4,7 @@
 - An element is hovered over when the user designates it with a pointing device, like pointing at it by placing the mouse over it, without necessarily **activating** it.
 - `:hover` is a dynamic pseudo-class that matches when an element is being hovered by the user. It is usually used to give users visual feedback that the element they're pointing at has been indeed hovered and may be activated.
 
-#### Case: hover actions for links
+#### Case 1: hover actions for links
 
 ```html
 <a href="#">links</a>
@@ -16,6 +16,10 @@ a:hover {
     color: #fff;
 }
 ```
+
+#### case 2: dropdown menu
+
+
 
 <p data-height="266" data-theme-id="21735" data-slug-hash="rxGoGB" data-default-tab="result" data-user="aleen42" class='codepen'>See the Pen <a href='http://codepen.io/aleen42/pen/rxGoGB/'>rxGoGB</a> by aleen42 (<a href='http://codepen.io/aleen42'>@aleen42</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
