@@ -15,7 +15,7 @@
 <p data-height="266" data-theme-id="21735" data-slug-hash="yePBMe" data-default-tab="result" data-user="aleen42" class='codepen'>See the Pen <a href='http://codepen.io/aleen42/pen/yePBMe/'>yePBMe</a> by aleen42 (<a href='http://codepen.io/aleen42'>@aleen42</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-#### Case 2: 
+#### Case 2: applying to a progress bar
 
 #### Note
 
