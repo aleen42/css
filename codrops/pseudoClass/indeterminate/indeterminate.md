@@ -19,6 +19,8 @@
 
 - Hover over the second progress bar in the demo to see the mouse cursor change.
 
+
+
 #### Note
 
 - The indeterminate state of an element can be set **only via JavaScript**.
