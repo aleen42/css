@@ -28,6 +28,7 @@
 - [**:in-range**](./inrange/inrange.md)
 - [**:indeterminate**](./indeterminate/indeterminate.md)
 - [**:invalid**](./invalid/invalid.md)
+- [**:lang()**](./lang/lang.md)
 
 #### Note
 
