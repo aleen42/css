@@ -17,6 +17,8 @@
 
 #### Case 2: applying to a progress bar
 
+
+
 #### Note
 
 - The indeterminate state of an element can be set **only via JavaScript**.
