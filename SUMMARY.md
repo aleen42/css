@@ -27,3 +27,4 @@
             * [:hover](./codrops/pseudoClass/hover/hover.md)
             * [:in-range](./codrops/pseudoClass/inrange/inrange.md)
             * [:indeterminate](./codrops/pseudoClass/indeterminate/indeterminate.md)
+            * [:invalid](./codrops/pseudoClass/invalid/invalid.md)
