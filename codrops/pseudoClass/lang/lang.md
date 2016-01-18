@@ -14,5 +14,8 @@
 }
 ```
 
+#### Note
+
+- A language is usually specified on the root **html** element and is therefore inherited by the information in the **head** and the body, but it can also be specified on any element in the page
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
