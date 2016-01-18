@@ -12,6 +12,9 @@
 - So, visually speaking, a checkbox can have three states: checked, unchecked, or indeterminate. (Again, the indeterminate state is visual only.)
 - Using this concept, a checkbox can be checked if all its descendant checkboxes are checked, unchecked if all of its descendant checkboxes are unchecked, and indeterminate when only a subset of its descendant checkboxes are checked.
 
+<p data-height="266" data-theme-id="21735" data-slug-hash="yePBMe" data-default-tab="result" data-user="aleen42" class='codepen'>See the Pen <a href='http://codepen.io/aleen42/pen/yePBMe/'>yePBMe</a> by aleen42 (<a href='http://codepen.io/aleen42'>@aleen42</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
 #### Note
 
 - The indeterminate state of an element can be set **only via JavaScript**.
