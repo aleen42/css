@@ -5,4 +5,8 @@
 - In some browsers, :invalid also matches a form (`<form>`) and a fieldset (`<fieldset>`) that have one or more input elements that have invalid values according to their type value.
 
 
+#### Note
+
+- When a number input type (`<input type="number">`) is out of the range of permitted values specified using the **min** and **max** attributes, then the `:invalid` pseudo-class matches, and also the `:out-of-range` pseudo-class matches. Any styles applied using `:out-of-range` will override the styles applied using `:invalid`. 
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
