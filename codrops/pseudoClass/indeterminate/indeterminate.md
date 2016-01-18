@@ -8,7 +8,7 @@
 
 #### Case:  nested boxes
 
-- A checkbox can be either checked or unchecked. That's actually **literally(字面上)** true. Even if the checkbox's state is set to indeterminate, the checkbox's visual style will change, but the underlying state will still be either checked or unchecked.
+- A checkbox can be either checked or unchecked. That's actually **literally(字面上)** true. Even if the checkbox's state is set to indeterminate, the checkbox's **visual style** will change, but the underlying state will still be either checked or unchecked.
 
 #### Note
 
