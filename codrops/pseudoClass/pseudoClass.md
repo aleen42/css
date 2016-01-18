@@ -27,6 +27,7 @@
 - [**:hover**](./hover/hover.md)
 - [**:in-range**](./inrange/inrange.md)
 - [**:indeterminate**](./indeterminate/indeterminate.md)
+- [**:invalid**](./invalid/invalid.md)
 
 #### Note
 
