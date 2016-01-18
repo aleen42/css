@@ -16,6 +16,10 @@
 
 #### Note
 
-- A language is usually specified on the root **html** element and is therefore inherited by the information in the **head** and the body, but it can also be specified on any element in the page
+- A language is usually specified on the root **html** element and is therefore inherited by the information in the **head** and the **body**, but it can also be specified on any element in the page.
+
+```html
+<p>You'd say that in Chinese as <span lang="zh-Hans">中國科學院文獻情報中心</span></p>
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
