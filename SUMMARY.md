@@ -26,3 +26,4 @@
             * [:fullscreen](./codrops/pseudoClass/fullscreen/fullscreen.md)
             * [:hover](./codrops/pseudoClass/hover/hover.md)
             * [:in-range](./codrops/pseudoClass/inrange/inrange.md)
+            * [:indeterminate](./codrops/pseudoClass/indeterminate/indeterminate.md)
