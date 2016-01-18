@@ -18,15 +18,15 @@
 
 ```css
 :invalid {
-  box-shadow: none;
+  outline: 1px solid #a10000;
 }
 
 :-moz-submit-invalid {
-  box-shadow: none;
+  outline: 1px solid #a10000;
 }
 
 :-moz-ui-invalid {
-  box-shadow:none;
+  outline: 1px solid #a10000;
 }
 ```
 
