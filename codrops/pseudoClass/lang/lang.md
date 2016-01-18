@@ -22,6 +22,6 @@
 <p>You'd say that in Chinese as <span lang="zh-Hans">中國科學院文獻情報中心</span></p>
 ```
 
-- Language codes consist of a primary code and a possibly empty series of subcodes: language-code = primary-code ( "-" subcode )*. Example language codes include “en” for English, “zh-Hans” for Chinese, and en-GB-oed for English based on the Oxford English Dictionary spelling.
+- Language codes consist of a primary code and a possibly empty series of subcodes: `language-code = primary-code ( "-" subcode )*`. Example language codes include "en" for English, "zh-Hans" for Chinese, and "en-GB-oed" for English based on the Oxford English Dictionary spelling. In order to choose the right language code, you can check the list of available language codes out in the **IANA** language sub-tag registry
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
