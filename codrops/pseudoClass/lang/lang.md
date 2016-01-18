@@ -6,6 +6,11 @@
 ```css
 .element:lang(X) {
     /** styles for the element which is in the language X */
+    /*
+     * Whether an element is represented by a :lang() selector is based solely on 
+     * the element’s language value being equal to the identifier X,
+     * or beginning with the identifier X immediately followed by "-" (U+002D).
+     */
 }
 ```
 
