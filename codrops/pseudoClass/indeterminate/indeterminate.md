@@ -16,4 +16,8 @@
 <input type="checkbox" indeterminate>
 ```
 
+```js
+document.getElementByTagName('input')[0].indeterminate = true;
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
