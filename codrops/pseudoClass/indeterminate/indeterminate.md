@@ -17,7 +17,7 @@
 
 #### Case 2: applying to a progress bar
 
-
+- Hover over the second progress bar in the demo to see the mouse cursor change.
 
 #### Note
 
