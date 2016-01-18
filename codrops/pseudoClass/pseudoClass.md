@@ -26,7 +26,7 @@
 - [**:fullscreen**](./fullscreen/fullscreen.md)
 - [**:hover**](./hover/hover.md)
 - [**:in-range**](./inrange/inrange.md)
-- [**:indeterminate**](./inrange/inrange.md)
+- [**:indeterminate**](./indeterminate/indeterminate.md)
 
 #### Note
 
