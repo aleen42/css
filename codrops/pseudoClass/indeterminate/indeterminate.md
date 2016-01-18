@@ -14,6 +14,7 @@
 #### Note
 
 - The indeterminate state of an element can be set **only via JavaScript**.
+- The above state styles are applied in Chrome. Checkboxes usually look different in different browsers, and so do their state state styles.
 
 ```html
 <!-- doesn't work if you add it like so via HTML -->
