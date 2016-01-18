@@ -6,6 +6,9 @@
     - Radio buttons (`<input type="radio">`) whose radio button group contains no radio button that is checked.
     - A progress element (`<progress>`) that has no value attribute. The **progress element** is an HTML5 element that is used to represent the completion progress of a task.
 
+#### Case:  nested boxes
+
+- A checkbox can be either checked or unchecked. That's actually **literally(字面上)** true. Even if the checkbox's state is set to indeterminate, the checkbox's visual style will change, but the underlying state will still be either checked or unchecked.
 
 #### Note
 
