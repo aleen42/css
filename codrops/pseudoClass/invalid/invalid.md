@@ -13,5 +13,6 @@
 
 - When a number input type (`<input type="number">`) is out of the range of permitted values specified using the **min** and **max** attributes, then the `:invalid` pseudo-class matches, and also the `:out-of-range` pseudo-class matches. Any styles applied using `:out-of-range` will override the styles applied using `:invalid`. 
 - The `:invalid` pseudo-class also applied to all of the buttons in a group of radio buttons (they have the same name attribute value) if one of the buttons is required (has the required attribute) but none of the buttons in the group is selected.
+- Using `:invalid` to select a form that has an invalid input currently only works in Firefox 13+.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
