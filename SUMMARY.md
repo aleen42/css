@@ -29,3 +29,4 @@
             * [:indeterminate](./codrops/pseudoClass/indeterminate/indeterminate.md)
             * [:invalid](./codrops/pseudoClass/invalid/invalid.md)
             * [:lang()](./codrops/pseudoClass/lang/lang.md)
+            * [:last-child](./codrops/pseudoClass/lastchild/lastchild.md)
