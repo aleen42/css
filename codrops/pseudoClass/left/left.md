@@ -9,4 +9,8 @@
 }
 ```
 
+#### Note:
+
+- Styles specified in a `:first` `@page` rule override any styles specified in `:left` and `:right` `@page` rules.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
