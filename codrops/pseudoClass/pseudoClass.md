@@ -29,7 +29,7 @@
 - [**:indeterminate**](./indeterminate/indeterminate.md)
 - [**:invalid**](./invalid/invalid.md)
 - [**:lang()**](./lang/lang.md)
-- [**:last-chil**](./lastchild/lastchild.md)
+- [**:last-child**](./lastchild/lastchild.md)
 
 #### Note
 
