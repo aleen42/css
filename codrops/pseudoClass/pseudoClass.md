@@ -31,6 +31,7 @@
 - [**:lang()**](./lang/lang.md)
 - [**:last-child**](./lastchild/lastchild.md)
 - [**:last-of-type**](./lastoftype/lastoftype.md)
+- [**:left**](./left/lef.md)
 
 #### Note
 
