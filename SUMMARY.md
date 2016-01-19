@@ -31,3 +31,4 @@
             * [:lang()](./codrops/pseudoClass/lang/lang.md)
             * [:last-child](./codrops/pseudoClass/lastchild/lastchild.md)
             * [:last-of-type](./codrops/pseudoClass/lastoftype/lastoftype.md)
+            * [:left](./codrops/pseudoClass/left/left.md)
