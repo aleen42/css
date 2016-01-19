@@ -30,3 +30,4 @@
             * [:invalid](./codrops/pseudoClass/invalid/invalid.md)
             * [:lang()](./codrops/pseudoClass/lang/lang.md)
             * [:last-child](./codrops/pseudoClass/lastchild/lastchild.md)
+            * [:last-of-type](./codrops/pseudoClass/lastoftype/lastoftype.md)
