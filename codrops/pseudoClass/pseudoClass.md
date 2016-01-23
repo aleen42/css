@@ -32,6 +32,7 @@
 - [**:last-child**](./lastchild/lastchild.md)
 - [**:last-of-type**](./lastoftype/lastoftype.md)
 - [**:left**](./left/left.md)
+- [**:link**](./link/link.md)
 
 #### Note
 
