@@ -32,3 +32,4 @@
             * [:last-child](./codrops/pseudoClass/lastchild/lastchild.md)
             * [:last-of-type](./codrops/pseudoClass/lastoftype/lastoftype.md)
             * [:left](./codrops/pseudoClass/left/left.md)
+            * [:link](./codrops/pseudoClass/link/link.md)
