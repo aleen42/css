@@ -14,4 +14,30 @@
 <a>No href attribute</a>
 ```
 
+#### Note
+
+- When the four link styling pseudo-classes are used, they are preferably used in the following order: `:link`, `:visited`, `:hover`, and `:active`. For example:
+
+```css
+a:link {
+    /** style links */
+}
+
+a:visited {
+    /** style visited links */
+}
+
+a:focus {
+    /** style focus state links */
+}
+
+a:hover {
+    /** style hover links */
+}
+
+a:active {
+    /** style active state links */
+}
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
