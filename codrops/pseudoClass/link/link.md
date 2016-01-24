@@ -14,6 +14,8 @@
 <a>No href attribute</a>
 ```
 
+#### Case: Learning `:link`
+
 #### Note
 
 - When the four link styling pseudo-classes are used, they are preferably used in the following order: `:link`, `:visited`, `:hover`, and `:active`. For example:
