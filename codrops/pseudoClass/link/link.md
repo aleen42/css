@@ -40,4 +40,6 @@ a:active {
 }
 ```
 
+- The `:link` pseudo-class will select all links, even those that are already styled using any of the other three pseudo-classes. So, the styles applied using :visited will be overridden by the styles applied using :link.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
