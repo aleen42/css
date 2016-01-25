@@ -33,6 +33,7 @@
 - [**:last-of-type**](./lastoftype/lastoftype.md)
 - [**:left**](./left/left.md)
 - [**:link**](./link/link.md)
+- [**:not()**](./not/not.md)
 
 #### Note
 
