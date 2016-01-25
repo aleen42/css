@@ -1,4 +1,4 @@
-## :link [**Back**](./../pseudoClass.md)
+## :not() [**Back**](./../pseudoClass.md)
 
 - 
 
