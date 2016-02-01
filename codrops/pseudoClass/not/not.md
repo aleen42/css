@@ -21,5 +21,15 @@ p:not(:not(:last-child)) {}
 a:not(::after) {}
 ```
 
+- example:
+
+```css
+li:not(.new) {
+    /** 
+     * style all the list item except the one that 
+       has the class new
+     */
+}
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
