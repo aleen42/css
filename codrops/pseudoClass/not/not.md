@@ -14,7 +14,7 @@
 /** Invalid */
 p:not(:not(.same)) {}
 
-
+p:not(:not(:last-child)) {}
 ```
 
 
