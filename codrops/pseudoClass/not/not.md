@@ -32,6 +32,8 @@ li:not(.new) {
 }
 ```
 
+#### Case: learnning `:note()`
+
 #### Note
 
 - The `:not()` selector can be chainable with more.
