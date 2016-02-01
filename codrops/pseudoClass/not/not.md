@@ -11,7 +11,7 @@
 - Invalid situation (**pseudo-element** and **negation pseudo-class** selector):
 
 ```css
-
+/** Invalid */
 ```
 
 
