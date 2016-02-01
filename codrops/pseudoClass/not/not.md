@@ -42,6 +42,6 @@ artical:not(#feature):not(.header) {
 }
 ```
 
-- The `:not()` pseudo-class selector allows useless selectors to be written. 
+- The `:not()` pseudo-class selector allows useless selectors to be written. For instance `:not(*)`, which represents no element at all will never apply any styles, or `foo:not(bar)` (e.g `p:not(article)`), which is equivalent to foo but with a higher specificity.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
