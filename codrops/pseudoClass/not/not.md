@@ -4,5 +4,7 @@
 - The **simple selector** that `:not()` takes as an argument can be any of the following:
     - Type selector: (eg. `span` etc.)
     - Class selector: (eg. `.element`, `.sidebar` etc.)
+    - ID selector: (eg. `#element` etc.)
+    - 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
