@@ -12,6 +12,9 @@
 
 ```css
 /** Invalid */
+p:not(:not(.same)) {}
+
+
 ```
 
 
