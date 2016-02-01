@@ -32,7 +32,7 @@ li:not(.new) {
 }
 ```
 
-#### Case: learnning `:note()`
+#### Case: learnning `:not()`
 
 #### Note
 
