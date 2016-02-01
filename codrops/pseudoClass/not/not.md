@@ -17,6 +17,8 @@ p:not(:not(.same)) {}
 p:not(:not(:last-child)) {}
 
 :not(::first-letter) {}
+
+a:not(::after) {}
 ```
 
 
