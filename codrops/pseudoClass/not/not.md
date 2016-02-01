@@ -6,5 +6,6 @@
     - Class selector (eg. `.element`, `.sidebar` etc.)
     - ID selector (eg. `#element` etc.)
     - Pseudo-class selector (eg. `:first-child`, `last-of-type` etc.)
+    - Attribute selector (eg. [type="checkbox"] etc.)
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
