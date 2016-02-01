@@ -8,5 +8,11 @@
     - Pseudo-class selector (eg. `:first-child`, `last-of-type` etc.)
     - Attribute selector (eg. `[type="checkbox"]` etc.)
     - The universal selector (`*`)
+- Invalid situation (**pseudo-element** and **negation pseudo-class** selector):
+
+```css
+
+```
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
