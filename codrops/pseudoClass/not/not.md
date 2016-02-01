@@ -42,4 +42,6 @@ artical:not(#feature):not(.header) {
 }
 ```
 
+- The :not() pseudo-class selector allows useless selectors to be written. 
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
