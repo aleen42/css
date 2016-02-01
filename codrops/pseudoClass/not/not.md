@@ -34,6 +34,10 @@ li:not(.new) {
 
 #### Note
 
+- The `:not()` selector can be chainable with more.
 
+```css
+
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
