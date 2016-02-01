@@ -37,7 +37,9 @@ li:not(.new) {
 - The `:not()` selector can be chainable with more.
 
 ```css
-
+artical:not(#feature):not(.header) {
+    /** style the artical element match the situation */
+}
 ```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
