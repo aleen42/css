@@ -44,5 +44,6 @@ artical:not(#feature):not(.header) {
 
 - The `:not()` pseudo-class selector allows useless selectors to be written. For instance `:not(*)`, which represents no element at all will never apply any styles, or `foo:not(bar)` (e.g `p:not(article)`), which is equivalent to foo but with a higher specificity.
 - Since you can use `:not()` globally and select all elements that are not represented by the argument, you should also note that `:not(X)` will match anything that isn't **X**, including **html** and **body**.
+- Future levels of CSS (Level 4) will allow using selector lists inside `:not()`, such as `.title:not(h1, h2)` and `:not(#ID, .classname)`,
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
