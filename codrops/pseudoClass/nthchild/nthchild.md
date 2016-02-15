@@ -6,5 +6,6 @@
     - `li:nth-child(even)` will select all list items with even index numbers **(2, 4, 6, 8, etc.)**
     - `li:nth-child(odd)` will select all list items with odd index numbers **(1, 3, 5, 7, etc.)**
 - You can also use a **formula** (or an **equation**)
+    - `li:nth-child(an+b)`: to divide into **a** groups and select the **b**th element of each group.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
