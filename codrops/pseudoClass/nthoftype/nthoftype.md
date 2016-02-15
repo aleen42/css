@@ -1,5 +1,6 @@
 ## :nth-of-type() [**Back**](./../pseudoClass.md)
 
+- The `:nth-of-type()` is a CSS pseudo-class selector that allows you to select **elements of the same type** based on their index (source order) inside their container.
 - You can also pass **positive number**, **predefined keywords(even, odd)** and **formula** to `nth-last-of-tpye()` like `nth-last-child()`.
 
 #### Case: learning `:nth-last-of-type()`
