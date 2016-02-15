@@ -37,6 +37,7 @@
 - [**:nth-child()**](./nthchild/nthchild.md)
 - [**:nth-last-child()**](./nthlastchild/nthlastchild.md)
 - [**:nth-last-of-type()**](./nthlastoftype/nthlastoftype.md)
+- [**:nth-of-type()**](./nthoftype/nthoftype.md)
 
 #### Note
 
