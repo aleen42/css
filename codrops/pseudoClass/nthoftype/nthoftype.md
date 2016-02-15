@@ -1,7 +1,7 @@
 ## :nth-of-type() [**Back**](./../pseudoClass.md)
 
 - The `:nth-of-type()` is a CSS pseudo-class selector that allows you to select **elements of the same type** based on their index (source order) inside their container.
-- You can also pass **positive number**, **predefined keywords(even, odd)** and **formula** to `nth-last-of-tpye()` like `nth-last-child()`.
+- You can also pass **positive number**, **predefined keywords(even, odd)** and **formula** to `nth-of-tpye()` like `nth-last-child()`.
 
 #### Case: learning `:nth-last-of-type()`
 
@@ -13,6 +13,6 @@
 - Using some tools to help dealing with the calculations for `nth-child` by visualizing.
     - [CSS3 structural pseudo-class selector tester](http://lea.verou.me/demos/nth.html) by *Lea Verou*
     - [NTH-TEST – nth-child and nth-of-type tester](http://nth-test.com/) by *Paul Maloney*
-- There is a pseudo-class selector that has a similar functionality to that of :nth-last-of-type(), that selector is the :nth-of-type() selector. :nth-of-type() is similar to :nth-last-of-type(), except that instead of iterating through the elements from the last one, it starts iterating from the first one downwards.
+- There is a pseudo-class selector that has a similar functionality to that of `:nth-of-type()`, that selector is the `:nth-last-of-type()` selector. `:nth-last-of-type()` is similar to `:nth-of-type()`, except that instead of iterating through the elements from the first one downwards, it starts iterating from the last element up.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
