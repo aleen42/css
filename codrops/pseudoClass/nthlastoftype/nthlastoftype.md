@@ -4,6 +4,10 @@
 - It's more specific than `nth-last-child()`.
 - You can also pass **positive number**, **predefined keywords(even, odd)** and **formula** to `nth-last-of-tpye()` like `nth-last-child()`.
 
+#### Case: learning `:nth-last-of-type()`
+
+
+
 #### Note
 
 - Using some tools to help dealing with the calculations for `nth-child` by visualizing.
