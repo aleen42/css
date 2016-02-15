@@ -8,4 +8,7 @@
 - You can also use a **formula** (or an **equation**)
     - `li:nth-child(an+b)`: to divide into **a** groups and select the **b**th element of each group.
 
+#### Note
+
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
