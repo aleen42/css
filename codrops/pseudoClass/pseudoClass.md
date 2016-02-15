@@ -34,7 +34,7 @@
 - [**:left**](./left/left.md)
 - [**:link**](./link/link.md)
 - [**:not()**](./not/not.md)
-- [**:nth-child()**](./not/not.md)
+- [**:nth-child()**](./nthchild/nthchild.md)
 
 #### Note
 
