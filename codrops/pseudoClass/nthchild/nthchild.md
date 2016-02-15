@@ -10,5 +10,8 @@
 
 #### Note
 
+- Using some tools to help dealing with the calculations for `nth-child` by visualizing.
+    - [CSS3 structural pseudo-class selector tester](http://lea.verou.me/demos/nth.html) by *Lea Verou*
+    - 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
