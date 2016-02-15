@@ -35,4 +35,4 @@
             * [:link](./codrops/pseudoClass/link/link.md)
             * [:not()](./codrops/pseudoClass/not/not.md)
             * [:nth-child()](./codrops/pseudoClass/nthchild/nthchild.md)
-            * [:nth-last-child()](./nthlastchild/nthlastchild.md)
+            * [:nth-last-child()](./codrops/pseudoClass/nthlastchild/nthlastchild.md)
