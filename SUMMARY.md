@@ -36,5 +36,5 @@
             * [:not()](./codrops/pseudoClass/not/not.md)
             * [:nth-child()](./codrops/pseudoClass/nthchild/nthchild.md)
             * [:nth-last-child()](./codrops/pseudoClass/nthlastchild/nthlastchild.md)
-            * [:nth-of-type()](./nthoftype/nthoftype.md)
+            * [:nth-of-type()](./codrops/pseudoClass/nthoftype/nthoftype.md)
             * [:nth-last-of-type()](./codrops/pseudoClass/nthlastoftype/nthlastoftype.md)
