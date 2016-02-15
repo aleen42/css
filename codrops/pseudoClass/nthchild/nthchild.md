@@ -13,5 +13,6 @@
 - Using some tools to help dealing with the calculations for `nth-child` by visualizing.
     - [CSS3 structural pseudo-class selector tester](http://lea.verou.me/demos/nth.html) by *Lea Verou*
     - [NTH-TEST – nth-child and nth-of-type tester](http://nth-test.com/) by *Paul Maloney*
+- There is a pseudo-class selector that has a similar functionality to that of `:nth-child()`, that selector is the `:nth-last-child()` selector. `:nth-last-child()` is similar to `:nth-child`, except that instead of iterating through the elements from the first one downwards, it starts iterating from the last element up.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a
