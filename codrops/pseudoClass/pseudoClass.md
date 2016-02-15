@@ -39,7 +39,6 @@
 - [**:nth-of-type()**](./nthoftype/nthoftype.md)
 - [**:nth-last-of-type()**](./nthlastoftype/nthlastoftype.md)
 
-
 #### Note
 
 ###### Different notations: (`:`) and (`::`)
