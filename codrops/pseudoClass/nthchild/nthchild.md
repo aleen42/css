@@ -8,6 +8,11 @@
 - You can also use a **formula** (or an **equation**)
     - `li:nth-child(an+b)`: to divide into **a** groups and select the **b**th element of each group.
 
+#### Case: learning `nth-child()`
+
+<p data-height="266" data-theme-id="21735" data-slug-hash="XXGbNv" data-default-tab="result" data-user="aleen42" class='codepen'>See the Pen <a href='http://codepen.io/aleen42/pen/XXGbNv/'>XXGbNv</a> by aleen42 (<a href='http://codepen.io/aleen42'>@aleen42</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
 #### Note
 
 - Using some tools to help dealing with the calculations for `nth-child` by visualizing.
