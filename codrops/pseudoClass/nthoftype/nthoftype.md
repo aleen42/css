@@ -3,10 +3,9 @@
 - The `:nth-of-type()` is a CSS pseudo-class selector that allows you to select **elements of the same type** based on their index (source order) inside their container.
 - You can also pass **positive number**, **predefined keywords(even, odd)** and **formula** to `nth-of-tpye()` like `nth-last-child()`.
 
-#### Case: learning `:nth-last-of-type()`
+#### Case: learning `:nth-of-type()`
 
-<p data-height="266" data-theme-id="21735" data-slug-hash="BjbNmx" data-default-tab="result" data-user="aleen42" class='codepen'>See the Pen <a href='http://codepen.io/aleen42/pen/BjbNmx/'>BjbNmx</a> by aleen42 (<a href='http://codepen.io/aleen42'>@aleen42</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
 
 #### Note
 
