@@ -12,4 +12,8 @@
 </article>
 ```
 
+#### Note
+
+- `:only-of-type` is familiar with `:only-child`
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
