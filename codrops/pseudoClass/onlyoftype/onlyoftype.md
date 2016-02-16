@@ -12,6 +12,8 @@
 </article>
 ```
 
+#### Case: learning `:only-of-type`
+
 #### Note
 
 - `:only-of-type` is familiar with `:only-child`.
