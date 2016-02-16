@@ -40,3 +40,4 @@
             * [:nth-last-of-type()](./codrops/pseudoClass/nthlastoftype/nthlastoftype.md)
             * [:only-child](./codrops/pseudoClass/onlychild/onlychild.md)
             * [:only-of-type](./codrops/pseudoClass/onlyoftype/onlyoftype.md)
+            * [:optional](./codrops/pseudoClass/optional/optional.md)
