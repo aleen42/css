@@ -21,5 +21,13 @@
 </article>
 ```
 
+#### Case: learning `:only-child`
+
+<p data-height="266" data-theme-id="21735" data-slug-hash="qbvovY" data-default-tab="result" data-user="aleen42" class='codepen'>See the Pen <a href='http://codepen.io/aleen42/pen/qbvovY/'>qbvovY</a> by aleen42 (<a href='http://codepen.io/aleen42'>@aleen42</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+#### Note
+
+- The `:only-child` pseudo-class selector is the same as `:first-child:last-child` and `:nth-child(1):nth-last-child(1)`.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
