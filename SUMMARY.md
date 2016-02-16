@@ -39,3 +39,4 @@
             * [:nth-of-type()](./codrops/pseudoClass/nthoftype/nthoftype.md)
             * [:nth-last-of-type()](./codrops/pseudoClass/nthlastoftype/nthlastoftype.md)
             * [:only-child](./codrops/pseudoClass/onlychild/onlychild.md)
+            * [:only-of-type](./codrops/pseudoClass/onlyoftype/onlyoftype.md)
