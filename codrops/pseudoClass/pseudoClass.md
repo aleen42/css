@@ -40,6 +40,7 @@
 - [**:nth-last-of-type()**](./nthlastoftype/nthlastoftype.md)
 - [**:only-child**](./onlychild/onlychild.md)
 - [**:only-of-type**](./onlyoftype/onlyoftype.md)
+- [**:optional**](./optional/optional.md)
 
 #### Note
 
