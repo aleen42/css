@@ -7,4 +7,14 @@
     - Any other element that is not an `<input>` or a `<textarea>`, and that has the contenteditable attribute set.
 - The following are examples of elements that can be selected using `:read-write`:
 
+```html
+<input type="text">
+
+<input type="number">
+
+<textarea name="nm" id="id" cols="30" rows="10"></textarea>
+
+<div class="random" contenteditable></div>
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
