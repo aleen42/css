@@ -27,6 +27,8 @@
 
 #### Note
 
-- In Chrome, Firefox, Safari, and Opera, inputs that are disabled (have the disabled attribute set) are treated as read-write not as read-only, unlike what the spec says. So, disabled elements will not match :read-only in these browsers even if they should.
+- The :read-only selector is not supported in Internet Explorer and on Android.
+- In Chrome, Firefox, Safari, and Opera, inputs that are **disabled** (have the disabled attribute set) are treated as **read-write** not as read-only, unlike what the spec says. So, disabled elements will not match :read-only in these browsers even if they should.
+- 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
