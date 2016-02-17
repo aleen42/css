@@ -17,6 +17,8 @@
 <div class="random" contenteditable></div>
 ```
 
+#### Case: test `:read-write`
+ 
 #### Note
 
 - In Chrome, Firefox, Safari, and Opera, inputs that are **disabled** (have the disabled attribute set) are still treated as **read-write**, unlike what the spec says.
