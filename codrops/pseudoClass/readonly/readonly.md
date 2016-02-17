@@ -6,6 +6,18 @@
     - `<textarea>`s that are neither read-only nor disabled (similar to the inputs).
     - Any other element that is not an `<input>` or a `<textarea>`, and that has the contenteditable attribute set.
 - The `:read-only` pseudo-class selector matches any element that is **not one of the above**.
-- 
+- The following are examples of elements that can be selected using `:read-only`:
+
+```html
+<input type="text" disabled>
+
+<input type="number" disabled>
+
+<input type="number" readonly>
+
+<textarea name="nm" cols="30" rows="10" readonly></textarea>
+
+<div class="random"></div>
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
