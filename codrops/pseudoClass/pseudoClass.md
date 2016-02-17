@@ -42,6 +42,7 @@
 - [**:only-of-type**](./onlyoftype/onlyoftype.md)
 - [**:optional**](./optional/optional.md)
 - [**:out-of-range**](./outofrange/outofrange.md)
+- [**:read-only**](./readonly/outofrange.md)
 
 #### Note
 
