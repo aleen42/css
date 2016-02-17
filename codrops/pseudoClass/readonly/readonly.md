@@ -30,5 +30,6 @@
 - The `:read-only` selector is not supported in **Internet Explorer** and on **Android**.
 - In Chrome, Firefox, Safari, and Opera, inputs that are **disabled** (have the disabled attribute set) are treated as **read-write** not as read-only, unlike what the spec says. So, disabled elements will not match :read-only in these browsers even if they should.
 - In Opera, elements that are editable using the **contenteditable** attribute are treated as **read-only** because it does not support the contenteditable attribute.
+- 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
