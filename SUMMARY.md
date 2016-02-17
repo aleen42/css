@@ -43,3 +43,4 @@
             * [:optional](./codrops/pseudoClass/optional/optional.md)
             * [:out-of-range](./codrops/pseudoClass/outofrange/outofrange.md)
             * [:read-only](./codrops/pseudoClass/readonly/readonly.md)
+            * [:read-write](./codrops/pseudoClass/readwrite/readwrite.md)
