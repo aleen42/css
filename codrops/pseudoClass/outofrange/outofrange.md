@@ -13,4 +13,12 @@
 <input type="number" min="1" max="10" value="8">
 ```
 
+- In this example, if the value exceeds the range limitations, the input will match the :out-of-range selector. The following will style the input when its value it outside the range limit:
+
+```css
+input[type="number"]:out-of-range {
+    /* styles here */
+}
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
