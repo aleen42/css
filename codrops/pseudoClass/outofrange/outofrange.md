@@ -7,4 +7,10 @@
 <input type="number">
 ```
 
+- Such an input would have a range of acceptable values specified using the min and max attributes. The value attribute would hold the current value of the input.
+
+```html
+<input type="number" min="1" max="10" value="8">
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
