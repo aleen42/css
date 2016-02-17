@@ -20,6 +20,6 @@
 #### Note
 
 - In Chrome, Firefox, Safari, and Opera, inputs that are **disabled** (have the disabled attribute set) are still treated as **read-write**, unlike what the spec says.
-- 
+- In Opera, elements that are editable using the **contenteditable** attribute are treated as **read-only** because it does not support the contenteditable attribute.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
