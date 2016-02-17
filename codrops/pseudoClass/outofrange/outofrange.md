@@ -21,4 +21,8 @@ input[type="number"]:out-of-range {
 }
 ```
 
+#### Case: learning `:out-of-range`
+
+
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
