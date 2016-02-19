@@ -46,6 +46,7 @@
 - [**:read-write**](./readwrite/readwrite.md)
 - [**:required**](./required/required.md)
 - [**:right**](./right/right.md)
+- [**:root**](./root/root.md)
 
 #### Note
 
