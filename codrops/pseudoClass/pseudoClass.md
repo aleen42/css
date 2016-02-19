@@ -45,6 +45,7 @@
 - [**:read-only**](./readonly/readonly.md)
 - [**:read-write**](./readwrite/readwrite.md)
 - [**:required**](./required/required.md)
+- [**:required**](./required/required.md)
 
 #### Note
 
