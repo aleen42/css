@@ -15,6 +15,6 @@ html {
 
 #### Note
 
-- In document formats other than HTML, such as SVG and XML, the :root pseudo-class can refer to another higher-level ancestor.
+- In document formats other than **HTML**, such as **SVG** and **XML**, the `:root` pseudo-class can refer to another higher-level ancestor.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
