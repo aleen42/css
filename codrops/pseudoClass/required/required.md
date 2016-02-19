@@ -19,4 +19,8 @@
 </select>
 ```
 
+#### Note
+
+- If you want to select form elements that are optional, you can use the :optional pseudo-class selector.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
