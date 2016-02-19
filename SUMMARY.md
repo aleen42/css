@@ -45,3 +45,4 @@
             * [:read-only](./codrops/pseudoClass/readonly/readonly.md)
             * [:read-write](./codrops/pseudoClass/readwrite/readwrite.md)
             * [:required](./codrops/pseudoClass/required/required.md)
+            * [:right](./codrops/pseudoClass/right/right.md)
