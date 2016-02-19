@@ -1,5 +1,12 @@
 ## :right [**Back**](./../pseudoClass.md)
 
 - `:right` is a CSS pseudo-class selector used to select all the right pages of a printed document.
+- When printing double-sided documents (such as books), the pages on left and right pages may be different. The `:right` page selector is used in conjunction with the `@page` rule, which selects all pages in a printed document, to select all the right pages of the document. In other words, when used with `@page`, `:right` acts kind of like a filter used to select only the right pages.
+
+```css
+@page :right {
+    /* styles for the right pages */
+}
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
