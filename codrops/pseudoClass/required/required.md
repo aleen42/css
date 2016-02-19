@@ -19,6 +19,8 @@
 </select>
 ```
 
+#### Case: learning `:required`
+
 #### Note
 
 - If you want to select form elements that are optional, you can use the `:optional` pseudo-class selector.
