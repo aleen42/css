@@ -30,6 +30,10 @@
         p {
             color: #0099cc; /* a blue color */
         }
+        
+        :scope {
+            background-color: #000;
+        }
     </style>
     <p>
         I am in the scope.
