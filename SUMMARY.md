@@ -47,3 +47,4 @@
             * [:required](./codrops/pseudoClass/required/required.md)
             * [:right](./codrops/pseudoClass/right/right.md)
             * [:root](./codrops/pseudoClass/root/root.md)
+            * [:scope](./codrops/pseudoClass/scope/scope.md)
