@@ -20,5 +20,6 @@
     I am outside the scope.
 </p>
 ```
+- The styles declared inside a style element with a **scoped** attributes will be applied to any elements inside its parent element (the **section** in this example). 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
