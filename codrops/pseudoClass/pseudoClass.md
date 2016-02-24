@@ -47,6 +47,7 @@
 - [**:required**](./required/required.md)
 - [**:right**](./right/right.md)
 - [**:root**](./root/root.md)
+- [**:scope**](./scope/scope.md)
 
 #### Note
 
