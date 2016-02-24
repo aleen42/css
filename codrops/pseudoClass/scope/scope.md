@@ -47,4 +47,8 @@
 - Will apply a black background color to the section element. It is called the **scoping root** or the **local context** of `<style scoped>`.
 - If the selector is scoped and the scoping root is an element, then `:scope` represents the scoping root; **otherwise, it represents the root of the document (equivalent to `:root`)**
 
+#### Note
+
+- The :scope pseudo-class selector currently only works in Firefox. There’s a possibility that this selector be at risk of removal some time in the future. 
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
