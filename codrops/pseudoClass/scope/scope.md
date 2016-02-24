@@ -21,5 +21,6 @@
 </p>
 ```
 - The styles declared inside a **style** element with a **scoped** attributes will be applied to any elements inside its parent element (the **section** in this example). These styles will also override the global styles defined in the document head (whether inline or via external style sheets).
+- The `:scope` pseudo-class selector matches the context of the block of scoped styles. In the above example, the section element is matched by `:scope`. So, this:
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
