@@ -49,6 +49,6 @@
 
 #### Note
 
-- The :scope pseudo-class selector currently only works in Firefox. There’s a possibility that this selector be at risk of removal some time in the future. 
+- The `:scope` pseudo-class selector currently only works in Firefox. There’s a possibility that this selector be at risk of removal some time in the future. 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
