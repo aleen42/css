@@ -44,6 +44,6 @@
 </p>
 ```
 
-- Will apply a black background color to the section element. It is called the **scoping root** or the local context of `<style scoped>`.
+- Will apply a black background color to the section element. It is called the **scoping root** or the **local context** of `<style scoped>`.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
