@@ -15,5 +15,9 @@
 - When the link is clicked, the URI of the page gets what is known as a fragment identifier, which **identifies** the element in the page which is **the target** that the link points to. URIs with fragment identifiers at the end link to a certain element in the document, known as the target element. **The `:target` pseudo-class is used to style that element.**
 - So, in more technical words: the `:target` pseudo-class selects the unique element, if any, with an ID matching the fragment identifier of the URI of the document.
 
+#### The Yellow Fade Technique - Highlighting The Target Element
+
+- The Yellow Fade Technique(YFT) was [introduced by 37 Signals](http://signalvnoise.com/archives/000558.php) to highlight newly added content in a page in order to attract the user's attention to it.
+
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
