@@ -25,5 +25,12 @@
 
 - To better understand that, click on any of the links on the left in the following demo. Each link targets a corresponding section. When you click on a link, its corresponding section is scrolled to the top of the viewport. But when you click on the last section, the browser will scroll down enough so that the section is in the viewport, but it can't scroll down more to stick the last section to the top of the viewport since there isn't enough content after it to allow that.
 
+<p data-height="266" data-theme-id="21735" data-slug-hash="VaZKmb" data-default-tab="result" data-user="aleen42" class='codepen'>See the Pen <a href='http://codepen.io/aleen42/pen/VaZKmb/'>VaZKmb</a> by aleen42 (<a href='http://codepen.io/aleen42'>@aleen42</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+- Using the `:target` pseudo-class, we're going to target the sections and give them temporary styles that highlight them once they're targeted. This makes sure your eyes are guided to the target section, even if it is not scrolled to the top of the viewport.
+
+<p data-height="266" data-theme-id="21735" data-slug-hash="jqNMVd" data-default-tab="result" data-user="aleen42" class='codepen'>See the Pen <a href='http://codepen.io/aleen42/pen/jqNMVd/'>jqNMVd</a> by aleen42 (<a href='http://codepen.io/aleen42'>@aleen42</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
