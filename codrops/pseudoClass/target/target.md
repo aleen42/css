@@ -33,4 +33,26 @@
 <p data-height="266" data-theme-id="21735" data-slug-hash="jqNMVd" data-default-tab="result" data-user="aleen42" class='codepen'>See the Pen <a href='http://codepen.io/aleen42/pen/jqNMVd/'>jqNMVd</a> by aleen42 (<a href='http://codepen.io/aleen42'>@aleen42</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
+#### Note
+
+- The :target pseudo-class also works on elements hidden with `display: none`.
+
+```html
+<a href="#element">Go To Element</a>
+
+<div id="element">
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, suscipit, at autem animi praesentium perspiciatis quis mollitia eius minima quae quaerat delectus nostrum dolore. Quia voluptate perferendis in modi a.
+</div>
+```
+
+```css
+#element {
+    display: none;
+}
+
+#element:target {
+    display: block;
+}
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
