@@ -55,4 +55,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, suscipit, at aut
 }
 ```
 
+-  the `:target` pseudo-class can be used to create a simple CSS-only lightbox gallery effect.
+    - Mary Lou's article: [CSS3 Lightbox](http://tympanus.net/codrops/2011/12/26/css3-lightbox/)
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
