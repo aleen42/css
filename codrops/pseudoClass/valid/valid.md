@@ -6,6 +6,6 @@
 #### Note
 
 - When a number input type (`<input type="number">`) is in the range of permitted values specified using the **min** and **max** attributes, then the `:valid` pseudo-class matches, and also the `:in-range` pseudo-class matches.
-- Any styles applied using `:in-range` will override the styles applied using `:valid` only if the `:in-range` styles c**ome after** the `:valid` styles in the style sheet.
+- Any styles applied using `:in-range` will override the styles applied using `:valid` only if the `:in-range` styles come after the `:valid` styles in the style sheet.
 
-<a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
+<a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail**.gif"></a>**
