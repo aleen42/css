@@ -32,7 +32,7 @@
 
 #### Useage
 
-- the first thing you should do is to load font of Font Awesome.
+- the first thing you should do is to load font of Font Awesome from the follow fonts:
     - FontAwesome.otf
     - fontawesome-webfont.eot
     - fontawesome-webfont.svg
