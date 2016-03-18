@@ -14,7 +14,7 @@
 
 ## Categories
 
-[**Codrops CSS References**](./codrops/codrops.md)
-[**Font Content with Values**](./content/content.md)
+- [**Codrops CSS References**](./codrops/codrops.md)
+- [**Font Content with Values**](./content/content.md)
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./pic/tail.gif"></a>
