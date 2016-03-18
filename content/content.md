@@ -20,7 +20,7 @@
     font-weight: normal;
     text-decoration: inherit;
 
-/** adjust as necessary */
+    /** adjust as necessary */
     color: #000;
     font-size: 18px;
     padding-right: 0.5em;
