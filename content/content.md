@@ -39,5 +39,9 @@
     - [fontawesome-webfont.ttf](https://github.com/aleen42/css/blob/master/content/fonts/fontawesome-webfont.ttf?raw=true)
     - [fontawesome-webfont.woff](https://github.com/aleen42/css/blob/master/content/fonts/fontawesome-webfont.woff?raw=true)
     - [fontawesome-webfont.woff2](https://github.com/aleen42/css/blob/master/content/fonts/fontawesome-webfont.woff2?raw=true)
+- then, load them into css:
+
+```css
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
