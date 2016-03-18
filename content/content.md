@@ -34,7 +34,7 @@
 
 - the first thing you should do is to load font of Font Awesome from the follow fonts(download them and put them in an directory like `fonts/`):
     - [FontAwesome.otf](https://github.com/aleen42/css/blob/master/content/fonts/FontAwesome.otf?raw=true)
-    - fontawesome-webfont.eot
+    - [fontawesome-webfont.eot](https://github.com/aleen42/css/blob/master/content/fonts/fontawesome-webfont.eot?raw=true)
     - fontawesome-webfont.svg
     - fontawesome-webfont.ttf
     - fontawesome-webfont.woff
