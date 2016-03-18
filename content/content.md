@@ -19,6 +19,7 @@
     font-style: normal;
     font-weight: normal;
     text-decoration: inherit;
+
 /** adjust as necessary */
     color: #000;
     font-size: 18px;
