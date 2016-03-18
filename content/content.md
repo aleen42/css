@@ -32,7 +32,7 @@
 
 #### Useage
 
-- the first thing you should do is to load font of Font Awesome from the follow fonts(download them and put it in an directory like `fonts/`):
+- the first thing you should do is to load font of Font Awesome from the follow fonts(download them and put them in an directory like `fonts/`):
     - FontAwesome.otf
     - fontawesome-webfont.eot
     - fontawesome-webfont.svg
