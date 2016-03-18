@@ -36,8 +36,8 @@
     - [FontAwesome.otf](https://github.com/aleen42/css/blob/master/content/fonts/FontAwesome.otf?raw=true)
     - [fontawesome-webfont.eot](https://github.com/aleen42/css/blob/master/content/fonts/fontawesome-webfont.eot?raw=true)
     - [fontawesome-webfont.svg](https://github.com/aleen42/css/raw/master/content/fonts/fontawesome-webfont.svg?raw=true)
-    - fontawesome-webfont.ttf
-    - fontawesome-webfont.woff
-    - fontawesome-webfont.woff2
+    - [fontawesome-webfont.ttf](https://github.com/aleen42/css/blob/master/content/fonts/fontawesome-webfont.ttf?raw=true)
+    - [fontawesome-webfont.woff](https://github.com/aleen42/css/blob/master/content/fonts/fontawesome-webfont.woff?raw=true)
+    - [fontawesome-webfont.woff2](https://github.com/aleen42/css/blob/master/content/fonts/fontawesome-webfont.woff2?raw=true)
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
