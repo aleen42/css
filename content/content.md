@@ -33,6 +33,11 @@
 #### Useage
 
 - the first thing you should do is to load font of Font Awesome.
-    - 
+    - FontAwesome.otf
+    - fontawesome-webfont.eot
+    - fontawesome-webfont.svg
+    - fontawesome-webfont.ttf
+    - fontawesome-webfont.woff
+    - fontawesome-webfont.woff2
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
