@@ -13,7 +13,7 @@
  * corresponding value from the list below
  */
  
-.element:before {
+.element::efore {
     content: "\f000";
     font-family: FontAwesome;
     font-style: normal;
