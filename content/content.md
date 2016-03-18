@@ -76,4 +76,13 @@
 }
 ```
 
-<a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
+- so you can use them like this:
+
+```css
+.element::before {
+    content: "\f000";
+    font-family: FontAwesome;
+}
+```
+
+- <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
