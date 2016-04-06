@@ -1,0 +1,182 @@
+/** CSS style for website */
+body {
+    font-family: Arial, "微软雅黑" !important;
+}
+
+.book.font-family-0 {
+    font-family: Arial, "微软雅黑" !important;
+}
+
+.book.font-family-1 {
+    font-family: Arial, "微软雅黑" !important;
+}
+
+a {
+    color: #000 !important;
+}
+
+a:focus {
+    color: #000 !important;
+}
+
+a:active {
+    color: #000 !important;
+}
+
+.page-wrapper a,
+a.navigation,
+.thread-likes > a {
+    color: #a10000 !important;
+}
+
+.page-wrapper a:focus,
+a.navigation:focus,
+.thread-likes > a:focus  {
+    color: #a10000 !important;
+}
+
+.page-wrapper a:active,
+a.navigation:active,
+.thread-likes > a:active {
+    color: #a10000 !important;
+}
+
+.page-wrapper .footer-modification {
+    color: #a10000 !important;
+}
+
+.book .book-summary ul.summary {
+    margin: 10px;
+}
+
+.book .book-summary ul.summary li a,
+a.navigation,
+.thread-likes > a {
+    transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+}
+
+.book .book-summary ul.summary li a:hover, .book .book-summary ul.summary li.active > a {
+    color: #a10000 !important;
+}
+
+/** menu scroll bar */
+.book .book-summary ul.summary::-webkit-scrollbar {
+  /** if you want to style your own scroll bar, this pseudo should be written */
+  /** Part 1 */
+  width: 6px;
+}
+
+.book .book-summary ul.summary::-webkit-scrollbar-button {
+  /** Part 2 */
+  display: none;
+}
+
+.book .book-summary ul.summary::-webkit-scrollbar-track {
+  /** Part 3 */
+}
+
+.book .book-summary ul.summary::-webkit-scrollbar-track-piece {
+  /** Part 4 */
+}
+
+.book .book-summary ul.summary::-webkit-scrollbar-thumb {
+  /** Part 5 */
+  background-color: rgba(0, 0, 0, 1);
+  border-radius: 10px;
+}
+
+.book .book-summary ul.summary::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(161, 0, 0, 1);
+}
+
+.book .book-summary ul.summary::-webkit-scrollbar-corner {
+  /** Part 6 */
+}
+
+.book .book-summary ul.summary::-webkit-resizer {
+  /** Part 7 */
+}
+
+/** demo scroll bar */
+#output pre, #output iframe::-webkit-scrollbar {
+  /** if you want to style your own scroll bar, this pseudo should be written */
+  /** Part 1 */
+  width: 6px;
+}
+
+#output pre, #output iframe::-webkit-scrollbar-button {
+  /** Part 2 */
+  display: none;
+}
+
+#output pre, #output iframe::-webkit-scrollbar-track {
+  /** Part 3 */
+}
+
+#output pre, #output iframe::-webkit-scrollbar-track-piece {
+  /** Part 4 */
+}
+
+#output pre, #output iframe::-webkit-scrollbar-thumb {
+  /** Part 5 */
+  background-color: rgba(0, 0, 0, 1);
+  border-radius: 10px;
+}
+
+#output pre, #output iframe::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(161, 0, 0, 1);
+}
+
+#output pre, #output iframe::-webkit-scrollbar-corner {
+  /** Part 6 */
+}
+
+#output pre, #output iframe::-webkit-resizer {
+  /** Part 7 */
+}
+
+/** body scroll bar */
+.book .book-body {
+    margin: 10px;
+}
+
+.book .book-body .body-inner::-webkit-scrollbar {
+  /** if you want to style your own scroll bar, this pseudo should be written */
+  /** Part 1 */
+  width: 6px;
+}
+
+.book .book-body .body-inner::-webkit-scrollbar-button {
+  /** Part 2 */
+  display: none;
+}
+
+.book .book-body .body-inner::-webkit-scrollbar-track {
+  /** Part 3 */
+}
+
+.book .book-body .body-inner::-webkit-scrollbar-track-piece {
+  /** Part 4 */
+}
+
+.book .book-body .body-inner::-webkit-scrollbar-thumb {
+  /** Part 5 */
+  background-color: rgba(0, 0, 0, 1);
+  border-radius: 10px;
+}
+
+.book .book-body .body-inner::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(161, 0, 0, 1);
+}
+
+.book .book-body .body-inner::-webkit-scrollbar-corner {
+  /** Part 6 */
+}
+
+.book .book-body .body-inner::-webkit-resizer {
+  /** Part 7 */
+}
