@@ -181,6 +181,10 @@ a.navigation,
     background-color: rgba(129, 81, 28, 1);
 }
 
+.book .book-body .body-inner::-webkit-scrollbar-thumb:active {
+    background-color: rgba(99, 23, 63, 1);
+}
+
 .book .book-body .body-inner::-webkit-scrollbar-corner {
   /** Part 6 */
 }
