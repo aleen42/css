@@ -94,7 +94,7 @@ a.navigation,
 }
 
 .book .book-summary ul.summary::-webkit-scrollbar-thumb:active {
-    background-color: rgba(99, 63, 23, 1);
+    background-color: rgba(99, 23, 63, 1);
 }
 
 .book .book-summary ul.summary::-webkit-scrollbar-corner {
