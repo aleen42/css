@@ -26,23 +26,23 @@ a:active {
 .page-wrapper a,
 a.navigation,
 .thread-likes > a {
-    color: #a10000 !important;
+    color: #81511c !important;
 }
 
 .page-wrapper a:focus,
 a.navigation:focus,
 .thread-likes > a:focus  {
-    color: #a10000 !important;
+    color: #81511c !important;
 }
 
 .page-wrapper a:active,
 a.navigation:active,
 .thread-likes > a:active {
-    color: #a10000 !important;
+    color: #81511c !important;
 }
 
 .page-wrapper .footer-modification {
-    color: #a10000 !important;
+    color: #81511c !important;
 }
 
 .book .book-summary ul.summary {
@@ -60,7 +60,7 @@ a.navigation,
 }
 
 .book .book-summary ul.summary li a:hover, .book .book-summary ul.summary li.active > a {
-    color: #a10000 !important;
+    color: #81511c !important;
 }
 
 /** menu scroll bar */
