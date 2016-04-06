@@ -90,7 +90,7 @@ a.navigation,
 }
 
 .book .book-summary ul.summary::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(161, 0, 0, 1);
+    background-color: rgba(129, 81, 28, 1);
 }
 
 .book .book-summary ul.summary::-webkit-scrollbar-corner {
@@ -128,7 +128,7 @@ a.navigation,
 }
 
 #output pre, #output iframe::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(161, 0, 0, 1);
+    background-color: rgba(129, 81, 28, 1);
 }
 
 #output pre, #output iframe::-webkit-scrollbar-corner {
@@ -170,7 +170,7 @@ a.navigation,
 }
 
 .book .book-body .body-inner::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(161, 0, 0, 1);
+    background-color: rgba(129, 81, 28, 1);
 }
 
 .book .book-body .body-inner::-webkit-scrollbar-corner {
