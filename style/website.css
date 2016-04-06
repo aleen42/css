@@ -135,8 +135,8 @@ a.navigation,
     background-color: rgba(129, 81, 28, 1);
 }
 
-.book .book-summary ul.summary::-webkit-scrollbar-thumb:active {
-    background-color: rgba(129, 81, 28, 1);
+#output pre, #output iframe::-webkit-scrollbar-thumb:active {
+    background-color: rgba(99, 23, 63, 1);
 }
 
 #output pre, #output iframe::-webkit-scrollbar-corner {
