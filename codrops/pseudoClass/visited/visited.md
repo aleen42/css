@@ -2,6 +2,7 @@
 
 - `:visited` is a pseudo-class used to select and style visited links in a page.
 - Note that it will only select anchors `<a>` that have an **href** attribute.
+- The `:visited` pseudo-class applies once the link has been visited by the user.
 
 ```html
 <!-- will select any of these -->
