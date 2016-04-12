@@ -53,6 +53,7 @@ a:active {
 - Baron's solution limits the CSS properties that can be used to style visited links to **color**, **background-color**, **border-*-color**, **outline-color** and, **column-rule-color.**
 - This means that the above properties are the only properties you can use to style `:visited` links that would actually work.
 - There's also an "anomaly" related to the **background-color** applied to a link using `:visited`: the background color in the `:visited` state won't be applied to the link unless an actual "real" background color is applied to the link prior to its visited state - that is, in its `:link` state.
+- For example, the following will **not** apply a background color to the visited link:
 
 ```css
 a:link {
@@ -67,5 +68,7 @@ a:visited {
     background-color: black;
 }
 ```
+
+- while
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
