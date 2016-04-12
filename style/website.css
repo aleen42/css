@@ -107,44 +107,44 @@ a.navigation,
 }
 
 /** demo scroll bar */
-#output pre, #output iframe::-webkit-scrollbar {
+#result-iframe::-webkit-scrollbar {
   /** if you want to style your own scroll bar, this pseudo should be written */
   /** Part 1 */
   width: 6px;
 }
 
-#output pre, #output iframe::-webkit-scrollbar-button {
+#result-iframe::-webkit-scrollbar-button {
   /** Part 2 */
   display: none;
 }
 
-#output pre, #output iframe::-webkit-scrollbar-track {
+#result-iframe::-webkit-scrollbar-track {
   /** Part 3 */
 }
 
-#output pre, #output iframe::-webkit-scrollbar-track-piece {
+#result-iframe::-webkit-scrollbar-track-piece {
   /** Part 4 */
 }
 
-#output pre, #output iframe::-webkit-scrollbar-thumb {
+#result-iframe::-webkit-scrollbar-thumb {
   /** Part 5 */
   background-color: rgba(0, 0, 0, 1);
   border-radius: 10px;
 }
 
-#output pre, #output iframe::-webkit-scrollbar-thumb:hover {
+#result-iframe::-webkit-scrollbar-thumb:hover {
     background-color: rgba(129, 81, 28, 1);
 }
 
-#output pre, #output iframe::-webkit-scrollbar-thumb:active {
+#result-iframe::-webkit-scrollbar-thumb:active {
     background-color: rgba(87, 55, 20, 1);
 }
 
-#output pre, #output iframe::-webkit-scrollbar-corner {
+#result-iframe::-webkit-scrollbar-corner {
   /** Part 6 */
 }
 
-#output pre, #output iframe::-webkit-resizer {
+#result-iframe::-webkit-resizer {
   /** Part 7 */
 }
 
