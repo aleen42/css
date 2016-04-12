@@ -50,5 +50,6 @@ a:active {
 
 - When you're styling **links** using `:focus` it is recommended that you provide the `:focus` styles after `:link` and `:visited` styles, otherwise the `:focus` styles would be overridden by those of `:link` and `:visited`.
 - The `:visited` pseudo-class can, along with some scripting, be used by websites to attack and "sniff" a user's web browsing history. In order to prevent privacy issues caused by this, modern browsers have set limitations on the kind of styles that can be applied to `:visited` links. These limitations help protect a user's privacy by preventing scripts from being able to identify and retrieve links that have been visited from a web page. The [solution to this privacy issue](http://dbaron.org/mozilla/visited-privacy) was proposed by Mozilla's [David Baron](http://dbaron.org/).
+- Baron's solution limits the CSS properties that can be used to style visited links to color, background-color, border-*-color, outline-color and, column-rule-color.
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
