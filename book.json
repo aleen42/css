@@ -9,23 +9,24 @@
         "mobi": "style/mobi.css",
         "epub": "style/epub.css"
     },
+    "links": {
+        "sidebar": {
+            "GitHub Project": "https://github.com/aleen42/javascript"
+        }
+    },
     "plugins": [
         "disqus",
         "-search",
         "github",
         "sharing",
         "tbfed-pagefooter",
-        "ga"
+        "ga",
+        "customtheme",
+        "comments"
     ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "personal"
-        },
-        "search-pro": {
-            "cutWordLib": "nodejieba",
-            "defineWord": [
-                "Gitbook Use"
-            ]
         },
         "github": {
             "url": "https://github.com/aleen42"
@@ -38,8 +39,11 @@
             "instapaper": false,
             "vk": false,
             "all": [
-                "facebook", "google", "twitter",
-                    "weibo", "instapaper"
+                "facebook",
+                "google",
+                "twitter",
+                "weibo",
+                "instapaper"
             ]
         },
         "tbfed-pagefooter": {
@@ -49,6 +53,11 @@
         },
         "ga": {
             "token": "UA-75457732-1"
+        },
+        "customtheme": {
+            "js": [
+                "src/index.js"
+            ]
         }
     }
 }
