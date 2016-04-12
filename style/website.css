@@ -155,7 +155,7 @@ a.navigation,
     background-image: url(./../pic/summary-background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: 64% center;
+    background-position: center;
     border: none !important;
     box-shadow: -8px 0px 18px #000 inset;
 }
