@@ -50,6 +50,7 @@
 - [**:scope**](./scope/scope.md)
 - [**:target**](./target/target.md)
 - [**:valid**](./valid/valid.md)
+- [**:visited**](./visited/visited.md)
 
 #### Note
 
