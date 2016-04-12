@@ -1,7 +1,7 @@
 ## :visited [**Back**](./../pseudoClass.md)
 
-- `:valid` is a CSS pseudo-class used to select and style form `<input>` elements whose values validate according to their **type** specified in the type attribute.
-- For example, email inputs (`<input type="email">`) whose values match a valid email address pattern.
+- `:visited` is a pseudo-class used to select and style visited links in a page.
+- Note that it will only select anchors `<a>` that have an **href** attribute.
 
 #### Case: learning `:valid`
 
