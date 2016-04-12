@@ -1,4 +1,4 @@
-<a href="https://www.gitbook.com/read/book/aleen42/css" target="_blank"><img src="./cover_read.jpg"></a>
+<a href="https://www.gitbook.com/read/book/aleen42/css" target="_blank"><img src="./cover_read.png"></a>
 
 ##About
 - This is a book which is about the personal guide of CSS and SCSS style, to constraint my coding style. And the guides has combined with [**Airbnb**](https://github.com/airbnb/css), [**Codrops**](https://github.com/codrops) and so on.
