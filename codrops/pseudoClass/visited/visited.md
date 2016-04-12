@@ -69,6 +69,6 @@ a:visited {
 }
 ```
 
-- while
+- While this will set the background color on the visited links:
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
