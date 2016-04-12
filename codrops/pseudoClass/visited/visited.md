@@ -71,4 +71,16 @@ a:visited {
 
 - While this will set the background color on the visited links:
 
+```css
+a:link {
+    color: white;
+    background-color: #eee; 
+}
+
+a:visited {
+    color: white;
+    background-color: black;
+}
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
