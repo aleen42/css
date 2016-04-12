@@ -46,7 +46,8 @@ a.navigation:active,
 }
 
 .book .book-summary ul.summary {
-    margin: 10px;
+    background-color: rgba(255, 255, 255, 0.55);
+    padding: 10px;
 }
 
 .book .book-summary ul.summary li a,
@@ -147,9 +148,74 @@ a.navigation,
   /** Part 7 */
 }
 
+/**
+ * book summary
+ */
+.book .book-summary {
+    background-image: url(./../pic/summary-background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 64% center;
+    border: none !important;
+    box-shadow: -8px 0px 18px #000 inset;
+}
+
+/*.book .book-summary ul.summary::before {*/
+/*    background-image: url('./../pic/icon-left.png');*/
+/*    background-size: 100% auto;*/
+/*    background-repeat: no-repeat;*/
+/*    width: 50px;*/
+/*    height: 50px;*/
+/*    content: "";*/
+/*    position: fixed;*/
+/*    top: 50%;*/
+/*    left: -25px;*/
+/*    cursor: pointer;*/
+/*}*/
+
+/**
+ * overlay animation
+ */
+#particles-js {
+    position: absolute;
+    top: 0;
+    z-index: 0;
+    width: 100%;
+    height: 98%;
+    opacity: 0;
+    transition: all 0.8s;
+    -webkit-transition: all 0.8s;
+}
+
+#overlay-icon {
+    background-image: url(http://aleen42.gitbooks.io/javascript/content/pic/icon-left.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    top: 50%;
+    left: -25px;
+    cursor: pointer;
+    transform: translateY(-25px);
+    -webkit-transform: translateY(-25px);
+    transition: all 0.8s;
+    -webkit-transition: all 0.8s;
+}
+
+#overlay-icon:hover {
+    left: -11px;
+}
+
 /** body scroll bar */
 .book .book-body {
     margin: 10px;
+    background-color: transparent !important;
+    z-index: 1;
+}
+
+.book .book-body .page-wrapper .page-inner section {
+    background-color: transparent !important;
 }
 
 .book .book-body .body-inner::-webkit-scrollbar {
