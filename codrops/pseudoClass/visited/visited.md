@@ -48,4 +48,6 @@ a:active {
 }
 ```
 
+- - When you're styling **links** using `:focus` it is recommended that you provide the `:focus` styles after `:link` and `:visited` styles, otherwise the `:focus` styles would be overridden by those of `:link` and `:visited`.
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
