@@ -54,4 +54,18 @@ a:active {
 - This means that the above properties are the only properties you can use to style `:visited` links that would actually work.
 - There's also an "anomaly" related to the **background-color** applied to a link using `:visited`: the background color in the `:visited` state won't be applied to the link unless an actual "real" background color is applied to the link prior to its visited state - that is, in its `:link` state.
 
+```css
+a:link {
+    color: white;
+    background-color: transparent; 
+    /** OR */
+    /** if no background color is set at all */
+}
+
+a:visited {
+    color: white;
+    background-color: black;
+}
+```
+
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
