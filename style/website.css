@@ -24,6 +24,11 @@ a:active {
     color: #000 !important;
 }
 
+pre {
+    border-radius: 4px !important;
+    background-color: rgba(210, 210, 210, 0.6) !important;
+}
+
 .page-wrapper a,
 a.navigation,
 .thread-likes > a {
