@@ -23,7 +23,29 @@
 
 #### Note
 
-- When a number input type (`<input type="number">`) is in the range of permitted values specified using the **min** and **max** attributes, then the `:valid` pseudo-class matches, and also the `:in-range` pseudo-class matches.
-- Any styles applied using `:in-range` will override the styles applied using `:valid` only if the `:in-range` styles **come after** the `:valid` styles in the style sheet.
+- An element can be both `:visited` and `:active` (or `:link` and `:active`).
+- When the four link styling pseudo-classes are used, they are preferably used in the following order: `:link`, `:visited`, `:hover`, and `:active`. For example:
+
+```css
+a:link {
+    /** style links */
+}
+
+a:visited {
+    /** style visited links */
+}
+
+a:focus {
+    /** style focus state links */
+}
+
+a:hover {
+    /** style hover links */
+}
+
+a:active {
+    /** style active state links */
+}
+```
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
