@@ -3,6 +3,10 @@
 - The `content` property is used with the `::before` and `::after` pseudo-elements to generate content that is to be inserted into an element in the page.
 - The content inserted using the content property can be string(s) of text, glyphs, images, counters (for styling lists), or quotes. Combining multiple values into one is also possible.
 
+```css
+content: normal | none | [ <string> | <uri> | <counter> | attr(<identifier>) | open-quote | close-quote | no-open-quote | no-close-quote ]+ | inherit
+```
+
 #### Note
 
 - The content property must be included in the set of rules for the `::before` and `::after` pseudo-elements, otherwise they won't be generated and inserted. 
