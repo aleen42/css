@@ -28,6 +28,9 @@ Element names may consist of Latin letters, digits, dashes and underscores. CSS 
 ```css
 /** good */
 .block__elem { color: #042; }
+
+/** bad */
+.block .block__elem { color: #042; }
 ```
 
 - <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
