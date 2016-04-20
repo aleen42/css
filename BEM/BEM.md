@@ -14,4 +14,8 @@ Block names may consist of Latin letters, digits, and dashes. To form a CSS clas
 .block { color: #042; }
 ```
 
+#### Element
+
+Element names may consist of Latin letters, digits, dashes and underscores. CSS class is formed as block name plus two underscores plus element name: `.block__elem`
+
 - <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
