@@ -5,6 +5,6 @@
 
 #### Note
 
-- The content property must be included in the set of rules for the `::before` and `::after` pseudo-elements, otherwise they won’t be generated and inserted. 
+- The content property must be included in the set of rules for the `::before` and `::after` pseudo-elements, otherwise they won't be generated and inserted. 
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../../../pic/tail.gif"></a>
