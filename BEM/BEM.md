@@ -74,7 +74,12 @@ Modifier names may consist of Latin letters, digits, dashes and underscores. CSS
 ```
 
 ```css
-
+.form { }
+.form--theme-xmax { }
+.form--simple { }
+.form__text { }
+.form__submit { }
+.form__submit--disabled { }
 ```
 
 - <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
