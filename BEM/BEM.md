@@ -68,7 +68,7 @@ Modifier names may consist of Latin letters, digits, dashes and underscores. CSS
 
 ```html
 <form class="form form--theme-xmas form--simple">
-    <input class="" type="text" />
+    <input class="form__input" type="text" />
     <input class="" type="submit" />
 </form>
 ```
