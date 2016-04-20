@@ -2,5 +2,6 @@
 
 - this is a reference to codrops CSS
 - [**Pseudo**](./pseudoClass/pseudoClass.md)
+- [**Pseudo**](./pseudoClass/pseudoClass.md)
 
 <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
