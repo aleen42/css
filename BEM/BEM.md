@@ -56,6 +56,9 @@ Modifier names may consist of Latin letters, digits, dashes and underscores. CSS
 ```css
 /** use modifier class name as selector */
 .block--hidden { opacity: 0; }
+
+/** alert elements based on a block-level modifier */
+.block--mod .block__elem { text-align: center; }
 ```
 
 - <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
