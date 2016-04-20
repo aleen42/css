@@ -10,4 +10,8 @@ Block names may consist of Latin letters, digits, and dashes. To form a CSS clas
 <div class="block">...</div>
 ```
 
+```css
+.block { color: #042; }
+```
+
 - <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
