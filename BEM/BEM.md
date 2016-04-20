@@ -64,4 +64,13 @@ Modifier names may consist of Latin letters, digits, dashes and underscores. CSS
 .block__elem--mod { }
 ```
 
+#### Example
+
+```html
+<form class="">
+    <input class="" type="text" />
+    <input 
+</form>
+```
+
 - <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
