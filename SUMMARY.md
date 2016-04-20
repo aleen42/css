@@ -51,5 +51,6 @@
             * [:target](./codrops/pseudoClass/target/target.md)
             * [:valid](./codrops/pseudoClass/valid/valid.md)
             * [:visited](./codrops/pseudoClass/visited/visited.md)
+            * [content](./codrops/content/content.md)
         * [Property](./codrops/property/property.md)
 - [Font Content with Values](./content/content.md)
