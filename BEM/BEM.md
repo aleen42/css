@@ -34,4 +34,6 @@ Element names may consist of Latin letters, digits, dashes and underscores. CSS 
 div.block__elem { color: #042; }
 ```
 
+#### Modifier
+
 - <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
