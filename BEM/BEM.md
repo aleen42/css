@@ -2,7 +2,7 @@
 
 > There are only two hard problems in Computer Science: cache invalidation and naming things — Phil Karlton
 
-BEM is a highly useful, powerful and simple naming convention to make your front-end code easier to read and understand, easier to work with, easier to scale, more robust and explicit and a lot more strict.
+**BEM** is a highly useful, powerful and simple naming convention to make your front-end code easier to read and understand, easier to work with, easier to scale, more robust and explicit and a lot more strict.
 
 #### Block
 
