@@ -48,6 +48,9 @@ Modifier names may consist of Latin letters, digits, dashes and underscores. CSS
 <!-- good -->
 <div class="block block--mod">...</div>
 <div class="block block--size-big block--shadow-yes">...</div>
+
+<!-- bad -->
+<div class="block--mod">...</div>
 ```
 
 - <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
