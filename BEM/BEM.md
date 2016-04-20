@@ -53,4 +53,9 @@ Modifier names may consist of Latin letters, digits, dashes and underscores. CSS
 <div class="block--mod">...</div>
 ```
 
+```css
+/** use modifier class name as selector */
+.block--hidden { }
+```
+
 - <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
