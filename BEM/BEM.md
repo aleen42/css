@@ -16,6 +16,8 @@ Block names may consist of Latin letters, digits, and dashes. To form a CSS clas
 
 #### Element
 
+**Element**: Parts of a block and have no standalone meaning. Any element is semantically tied to its block.
+
 Element names may consist of Latin letters, digits, dashes and underscores. CSS class is formed as block name plus two underscores plus element name: `.block__elem`
 
 ```html
