@@ -55,7 +55,7 @@ Modifier names may consist of Latin letters, digits, dashes and underscores. CSS
 
 ```css
 /** use modifier class name as selector */
-.block--hidden { }
+.block--hidden { opacity: 0; }
 ```
 
 - <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
