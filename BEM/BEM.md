@@ -59,6 +59,9 @@ Modifier names may consist of Latin letters, digits, dashes and underscores. CSS
 
 /** alert elements based on a block-level modifier */
 .block--mod .block__elem { text-align: center; }
+
+/** element modifier */
+.block__elem--mod { }
 ```
 
 - <a href="http://aleen42.github.io/" target="_blank" ><img src="./../pic/tail.gif"></a>
